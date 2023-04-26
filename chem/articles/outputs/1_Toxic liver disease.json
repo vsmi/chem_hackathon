@@ -1,0 +1,52 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "A Comprehensive Review of the Pharmacological Importance of Dietary Flavonoids as Hepatoprotective Agents",
+            "author": [
+                "A Mazumder",
+                "A Sharma",
+                "MAK Azad"
+            ],
+            "pub_year": "2023",
+            "venue": "\u2026 -Based Complementary and \u2026",
+            "abstract": "3 days ago -  and antioxidant effects concerning liver toxicity or injury.  factors of liver disease,  such as autoimmune diseases, viral  hepatic disease are alcohol-associated liver disease"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.hindawi.com/journals/ecam/2023/4139117/",
+        "author_id": [
+            "3-wbkicAAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:JmV2vH7BEaYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DToxic%2Bliver%2Bdisease%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JmV2vH7BEaYJ&ei=8plHZNiJIe2Ty9YP74OQiAw&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.hindawi.com/journals/ecam/2023/4139117/"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "The evolving role of stereotactic body radiotherapy in the management of liver metastasis",
+            "author": [
+                "VTY Yeung"
+            ],
+            "pub_year": "2023",
+            "venue": "Hong Kong Med J",
+            "abstract": "3 days ago -  metastases and carries a comparatively low risk of treatment-related toxicity.Patient   of the liver can result in radiotherapy-induced liver diseases, which may lead to liver"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.hkmj.org/system/files/hkmj235144.pdf",
+        "author_id": [
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:tErRCa3LHwwJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DToxic%2Bliver%2Bdisease%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tErRCa3LHwwJ&ei=8plHZNiJIe2Ty9YP74OQiAw&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.hkmj.org/system/files/hkmj235144.pdf"
+    }
+]

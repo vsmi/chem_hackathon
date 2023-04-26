@@ -1,0 +1,63 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Comparison of the Ways in Which Nitidine Chloride and Bufalin Induce Programmed Cell Death in Hematological Tumor Cells",
+            "author": [
+                "Z Su",
+                "M Luo",
+                "ZL Chen",
+                "H Lan"
+            ],
+            "pub_year": "2023",
+            "venue": "Applied Biochemistry and Biotechnology",
+            "abstract": "2 days ago -  on hematological tumor cells were different. Although abnormal cell morphology  could  than BF in order to stop cell growth and encourage cell death. Understanding their"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://link.springer.com/article/10.1007/s12010-023-04468-z",
+        "author_id": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:KqRR35IeaDEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dabnormal%2Bcell%2Bgrowth%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=KqRR35IeaDEJ&ei=k5pHZPSxFcmN6rQPxe6VwA0&json=",
+        "num_citations": 0,
+        "eprint_url": "https://link.springer.com/article/10.1007/s12010-023-04468-z"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "HIF1\u03b1-mediated transactivation of WTAP promotes AML cell proliferation via m6A-dependent stabilization of KDM4B mRNA",
+            "author": [
+                "YL Shao",
+                "YQ Li",
+                "MY Li",
+                "LL Wang",
+                "HS Zhou",
+                "DH Liu"
+            ],
+            "pub_year": "2023",
+            "venue": "Leukemia",
+            "abstract": "2 days ago -  cell growth in vitro and in mice. Thus, HIF1\u03b1-mediated WTAP high expression  enhances the malignant behavior of leukemia cells  that HIF1\u03b1 mediates the abnormally high"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.nature.com/articles/s41375-023-01904-1",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:UrVmiGHQsX0J:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dabnormal%2Bcell%2Bgrowth%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=UrVmiGHQsX0J&ei=k5pHZPSxFcmN6rQPxe6VwA0&json=",
+        "num_citations": 0
+    }
+]

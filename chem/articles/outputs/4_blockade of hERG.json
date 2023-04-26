@@ -1,0 +1,51 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Comment on Tabatabaei Dakhili et al. The Antipsychotic Dopamine 2 Receptor Antagonist Diphenylbutylpiperidines Improve Glycemia in Experimental Obesity by \u2026",
+            "author": [
+                "GP Reynolds"
+            ],
+            "pub_year": "2023",
+            "venue": "Diabetes",
+            "abstract": "4 days ago -  Most importantly, pimozide is liable to increase the QT interval through HERG  ( result in complete blockade of, among other sites, D2 receptors and HERG ion channels (3),"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://diabetesjournals.org/diabetes/article-abstract/72/5/e5/148736",
+        "author_id": [
+            "M2Hvd-UAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:cvK5E2fSTpIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dblockade%2Bof%2BhERG%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cvK5E2fSTpIJ&ei=eJpHZMfBI-2Ty9YP74OQiAw&json=",
+        "num_citations": 0,
+        "eprint_url": "https://diabetesjournals.org/diabetes/article-pdf/72/5/e5/701680/db230088.pdf"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Abstract LB324: BB3008, a potent and selective small molecular HPK1 inhibitor effective in multiple syngeneic tumor models",
+            "author": [
+                "G Duan",
+                "M Li",
+                "X Zhang"
+            ],
+            "pub_year": "2023",
+            "venue": "Cancer Research",
+            "abstract": "10 days ago -  The compound had no significant suppression on various normal cell lines  proliferation, and had no hERG liability. In preliminary safety evaluation, no abnormal clinical"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://aacrjournals.org/cancerres/article/83/8_Supplement/LB324/725310",
+        "author_id": [
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:bwm3ff0KmlQJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dblockade%2Bof%2BhERG%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bwm3ff0KmlQJ&ei=eJpHZMfBI-2Ty9YP74OQiAw&json=",
+        "num_citations": 0
+    }
+]

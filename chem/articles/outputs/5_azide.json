@@ -1,0 +1,63 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Azide\u2010Masked Resiquimod Activated by Hypoxia for Selective Tumor Therapy",
+            "author": [
+                "J Sun",
+                "Z Liu",
+                "H Yao",
+                "H Zhang",
+                "M Zheng",
+                "N Shen"
+            ],
+            "pub_year": "NA",
+            "venue": "Advanced \u2026",
+            "abstract": "2 days ago -  the potential of azide-masking  ,[21] azide can be used as a basis in the  design of R848 prodrugs for the selective therapy of tumors. Therefore, in this work, a novel azide"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202207733",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:P_7PPMlkwtkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dazide%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=P_7PPMlkwtkJ&ei=1ppHZPv3GIr8mgGIlKNI&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Chemoenzymatic Preparation of a Campylobacter jejuni Lipid-Linked Heptasaccharide on an Azide-Linked Polyisoprenoid",
+            "author": [
+                "AJ Reid",
+                "KM Erickson",
+                "JM Hazel",
+                "V Lukose"
+            ],
+            "pub_year": "2023",
+            "venue": "ACS \u2026",
+            "abstract": "2 days ago -  on the assembly of an azide-linked polyisoprenoid that could serve as the  lipid anchor for enzymatic glycosylation reactions. To incorporate an azide into BP, we first"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acsomega.3c01657",
+        "author_id": [
+            "",
+            "",
+            "0nM5dxEAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:U_rmiXgQUjwJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dazide%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=U_rmiXgQUjwJ&ei=1ppHZPv3GIr8mgGIlKNI&json=",
+        "num_citations": 0,
+        "eprint_url": "https://pubs.acs.org/doi/full/10.1021/acsomega.3c01657"
+    }
+]

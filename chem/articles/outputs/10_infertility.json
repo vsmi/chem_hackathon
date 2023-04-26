@@ -1,0 +1,59 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Mother's PCOS: a blueprint for children's health?",
+            "author": [
+                "Z Ali",
+                "JJ Fraire-Zamora",
+                "M Serdarogullari"
+            ],
+            "pub_year": "2023",
+            "venue": "Human \u2026",
+            "abstract": "2 days ago - The November ESHRE Journal Club was dedicated to a study by Wei et al.(2022),  inspiring discussions surrounding the definition, education, confounding factors, and"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://academic.oup.com/humrep/advance-article-abstract/doi/10.1093/humrep/dead078/7136718",
+        "author_id": [
+            "Si-2St8AAAAJ",
+            "Yi08_6YAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:pmz6SpE5u6sJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dinfertility%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=pmz6SpE5u6sJ&ei=WZtHZPbVDYuGmgHE44ewAg&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Differential Proteomic Analysis of Human Sperm: A Systematic Review to Identify Candidate Targets to Monitor Sperm Quality",
+            "author": [
+                "PO Corda",
+                "J Moreira",
+                "J Howl",
+                "PF Oliveira",
+                "M Fardilha"
+            ],
+            "pub_year": "2023",
+            "venue": "NA",
+            "abstract": "2 days ago -  motility, unexplained infertility and infertility related to risk  , association with  infertility phenotypes or participation in  overcome limitations in male infertility diagnosis and to"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.researchgate.net/profile/Pedro-Corda/publication/370156795_Differential_Proteomic_Analysis_of_Human_Sperm_A_Systematic_Review_to_Identify_Candidate_Targets_to_Monitor_Sperm_Quality/links/64427d56b8ba5f00242f166a/Differential-Proteomic-Analysis-of-Human-Sperm-A-Systematic-Review-to-Identify-Candidate-Targets-to-Monitor-Sperm-Quality.pdf",
+        "author_id": [
+            "xB2_OcEAAAAJ",
+            "",
+            "",
+            "duauJSQAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:0qkZ67grFxIJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dinfertility%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=0qkZ67grFxIJ&ei=WZtHZPbVDYuGmgHE44ewAg&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.researchgate.net/profile/Pedro-Corda/publication/370156795_Differential_Proteomic_Analysis_of_Human_Sperm_A_Systematic_Review_to_Identify_Candidate_Targets_to_Monitor_Sperm_Quality/links/64427d56b8ba5f00242f166a/Differential-Proteomic-Analysis-of-Human-Sperm-A-Systematic-Review-to-Identify-Candidate-Targets-to-Monitor-Sperm-Quality.pdf"
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "15 \u6b73\u306e MELAS (mitochondrial myopathy, encephalopathy, lactic acidosis, and stroke-like episodes) \u60a3\u8005\u306b\u30ec\u30df\u30de\u30be\u30e9\u30e0\u3092\u7528\u3044\u3066\u6b6f\u79d1\u6cbb\u7642\u306e\u305f\u3081\u306b\u9ebb\u9154\u7ba1\u7406\u3092\u884c\u3063\u305f 1 \u2026",
+            "author": [
+                "\u690d\u7530\u4e09\u60e0\uff0c \u7530\u4e2d\u66a2\u6d0b\uff0c \u767e\u7530\u7fa9\u5f18\uff0c \u5ddd\u53e3\u660c\u5f66"
+            ],
+            "pub_year": "2023",
+            "venue": "\u65e5\u672c\u6b6f\u79d1\u9ebb\u9154\u5b66\u4f1a\u96d1\u8a8c",
+            "abstract": "10 days ago -  He had been diagnosed as having MELAS at the age of seven years, following  a convulsive seizure, and he also had mental retardation. He was unable to remain calm"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.jstage.jst.go.jp/article/jjdsa/51/2/51_33/_article/-char/ja/",
+        "author_id": [
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:Q_REQptQsMUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DConvulsive%2Bseizures%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Q_REQptQsMUJ&ei=HptHZIXvN-CWy9YPzZW9uA8&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.jstage.jst.go.jp/article/jjdsa/51/2/51_33/_pdf"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Comparison of febrile seizures in children with or without coronavirus disease-2019: A single-center observational study.",
+            "author": [
+                "MJ Seo",
+                "MS Yum",
+                "JS Park"
+            ],
+            "pub_year": "2023",
+            "venue": "Pediatr Int",
+            "abstract": "10 days ago -  of convulsion within 24 h than those without COVID-19 (10.6% vs. 1.6%, p  = 0.037). Among patients with COVID-19, males had a shorter fever-to-seizure duration than"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-2193159",
+        "author_id": [
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:Xl-BdqE3a4wJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DConvulsive%2Bseizures%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Xl-BdqE3a4wJ&ei=HptHZIXvN-CWy9YPzZW9uA8&json=",
+        "num_citations": 0
+    }
+]

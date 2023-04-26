@@ -1,0 +1,55 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "BBA-Reviews on Cancer",
+            "author": [
+                "K Grzesik",
+                "M Janik",
+                "D Hoja-\u0141ukowicz"
+            ],
+            "venue": "NA",
+            "pub_year": "NA",
+            "abstract": "2 days ago - ABSTRACT Changes in the glycosylation process appear early in carcinogenesis  and evolve with the growth and spread of cancer. The correlation of the characteristic"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.researchgate.net/profile/Dorota-Hoja-Lukowicz/publication/369620471_The_hidden_potential_of_glycomarkers_Glycosylation_studies_in_the_service_of_cancer_diagnosis_and_treatment/links/64390fe42eca706c8b5c0237/The-hidden-potential-of-glycomarkers-Glycosylation-studies-in-the-service-of-cancer-diagnosis-and-treatment.pdf",
+        "author_id": [
+            "S5sqFpAAAAAJ",
+            "J6kbDk4AAAAJ",
+            "mJfeHaAAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:D6mYp8gPZ1QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dcarcinogenesis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=D6mYp8gPZ1QJ&ei=ippHZJG0DtiWy9YP8tmT4AI&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.researchgate.net/profile/Dorota-Hoja-Lukowicz/publication/369620471_The_hidden_potential_of_glycomarkers_Glycosylation_studies_in_the_service_of_cancer_diagnosis_and_treatment/links/64390fe42eca706c8b5c0237/The-hidden-potential-of-glycomarkers-Glycosylation-studies-in-the-service-of-cancer-diagnosis-and-treatment.pdf"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Relationship between cigarette use and prostate cancer risk: what do we know and what should we do?",
+            "author": [
+                "JI Nolazco",
+                "LA Mucci",
+                "R Sosnowski"
+            ],
+            "pub_year": "2023",
+            "venue": "Prostate Cancer and \u2026",
+            "abstract": "2 days ago -  mechanism remains elusive, existing evidence suggests that smoking may  impact testosterone metabolism, subsequently elevating the risk of prostate carcinogenesis [15,"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.nature.com/articles/s41391-023-00671-5",
+        "author_id": [
+            "",
+            "fuE7cNEAAAAJ",
+            "ei5sV7IAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:0s-w8GZ393wJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dcarcinogenesis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=0s-w8GZ393wJ&ei=ippHZJG0DtiWy9YP8tmT4AI&json=",
+        "num_citations": 0
+    }
+]

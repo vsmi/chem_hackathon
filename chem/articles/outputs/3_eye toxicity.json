@@ -1,0 +1,54 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Ocular permeability, intraocular biodistribution of lipid nanocapsule formulation intended for retinal drug delivery",
+            "author": [
+                "G Christensen",
+                "D Urimi",
+                "L Lorenzo-Soler"
+            ],
+            "pub_year": "2023",
+            "venue": "European Journal of \u2026",
+            "abstract": "2 days ago -  small molecule drug CN03 and exhibited low retinal toxicity. The bio-distribution  of LNCs in the vitreous of ex vivo porcine eyes revealed a high degree of permeation in"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0939641123000929",
+        "author_id": [
+            "",
+            "vQ_4odgAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:Ys1A94-EMNcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Deye%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Ys1A94-EMNcJ&ei=ZZpHZKxFmcmxAtyRm4AG&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0939641123000929"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Ozone and Nitrogen Dioxide Pollutants Detection System Based on IoT",
+            "author": [
+                "AK Ibrahim",
+                "ASM Khidhir"
+            ],
+            "pub_year": "2023",
+            "venue": "NA",
+            "abstract": "2 days ago -  Nitrogen dioxide gas is a toxic and harmful gas, it results from the combustion  of fuel at high temperatures, and can lead to eye and respiratory irritation, while exposure to"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.iasj.net/iasj/download/1c70379b5f281e71",
+        "author_id": [
+            "",
+            "wPXOA9cAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:dQfEkrSca5AJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Deye%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dQfEkrSca5AJ&ei=ZZpHZKxFmcmxAtyRm4AG&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.iasj.net/iasj/download/1c70379b5f281e71"
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Fluid Mechanics in Circulating Tumour Cells: Role in Metastasis and Treatment Strategies",
+            "author": [
+                "S Rajput",
+                "PK Sharma",
+                "R Malviya"
+            ],
+            "pub_year": "2023",
+            "venue": "Medicine in Drug Discovery",
+            "abstract": "2 days ago - Cancer patients have a shorter life expectancy because of metastasis, which is  the dynamic chain of events that leads to the spread of tumour cells to distant places inside"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S2590098623000088",
+        "author_id": [
+            "",
+            "S3VXzJgAAAAJ",
+            "yMDGY2oAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:W3GX1LcvdnkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dmetastasis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=W3GX1LcvdnkJ&ei=p5pHZLqCN5iUy9YPpeupqAk&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S2590098623000088"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Leiomyosarcoma of the lower rectum managed by radiotherapy and surgery: A case report and review of literature",
+            "author": [
+                "A Bennassi",
+                "H Souhail",
+                "AL Cicero",
+                "A Durigova"
+            ],
+            "pub_year": "2023",
+            "venue": "Cancer \u2026",
+            "abstract": "2 days ago -  She was free of metastasis on computed tomography imaging. The patient  refused radical surgery. After discussion by a multidisciplinary team, the patient received pre-"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1278321823000537",
+        "author_id": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:yndP52438I0J:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dmetastasis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yndP52438I0J&ei=p5pHZLqCN5iUy9YPpeupqAk&json=",
+        "num_citations": 0
+    }
+]

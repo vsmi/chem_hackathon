@@ -1,0 +1,56 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Review of \u03b2\u2010carboline and its derivatives as selective MAO\u2010A inhibitors",
+            "author": [
+                "F Benny",
+                "S Kumar",
+                "J Jayan"
+            ],
+            "pub_year": "2023",
+            "venue": "Archiv der \u2026",
+            "abstract": "18 days ago -  deamination of various endogenous and exogenous amines. MAO\u2010A inhibitors  are thought to be effective therapeutic agents for  at preventing the deamination of 5\u2010HT."
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ardp.202300091",
+        "author_id": [
+            "",
+            "zeFwxLcAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:ZSpnTvVCI1IJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Ddeaminating%2Bagent%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ZSpnTvVCI1IJ&ei=5ppHZOX8CYr8mgGIlKNI&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Selective Inhibition of ADAR1 Using 8-Azanebularine-Modified RNA Duplexes",
+            "author": [
+                "HG Mendoza",
+                "VJ Matos",
+                "SH Park",
+                "KM Pham"
+            ],
+            "pub_year": "2023",
+            "venue": "Biochemistry",
+            "abstract": "28 days ago -  that catalyze the hydrolytic deamination of adenosine (A) to  as promising  therapeutic agents while multiple studies  From gel shift and in vitro deamination experiments, we"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acs.biochem.2c00686",
+        "author_id": [
+            "DqvYx5kAAAAJ",
+            "",
+            "vFLrS-kAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:MRfklIwOktAJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Ddeaminating%2Bagent%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=MRfklIwOktAJ&ei=5ppHZOX8CYr8mgGIlKNI&json=",
+        "num_citations": 0
+    }
+]

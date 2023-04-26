@@ -1,0 +1,52 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Phytophotodermatitis as a clinical problem and as a therapeutic option: case report and review of the literature",
+            "author": [
+                "M Mansilla-Polo",
+                "D Mart\u00edn-Torregrosa"
+            ],
+            "pub_year": "2023",
+            "venue": "Photodiagnosis and \u2026",
+            "abstract": "93 days ago -  We report the case of a 28-year-old man with severe phytophotodermatitis  after generalized photoexposure with the manipulation of a fig tree, which required hospital"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1572100023000327",
+        "author_id": [
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:XIc9K6QVU0gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dphytophotodermatitis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=XIc9K6QVU0gJ&ei=TptHZNWaIe2Ty9YP74OQiAw&json=",
+        "num_citations": 0,
+        "url_related_articles": "/scholar?q=related:XIc9K6QVU0gJ:scholar.google.com/&scioq=phytophotodermatitis&hl=en&scisbd=1&as_sdt=0,33"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Acquired Hypermelanoses",
+            "author": [
+                "LL Xia",
+                "C Tan"
+            ],
+            "pub_year": "2023",
+            "venue": "Atlas of Pigmentary Skin Disorders",
+            "abstract": "114 days ago -  with papillomatosis, phytophotodermatitis, postinflammatory hyperpigmentation  to  therefore, its application does not prevent the occurrence of phytophotodermatitis."
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://link.springer.com/chapter/10.1007/978-981-19-5634-8_11",
+        "author_id": [
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:LykH-Is484cJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dphytophotodermatitis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LykH-Is484cJ&ei=TptHZNWaIe2Ty9YP74OQiAw&json=",
+        "num_citations": 0,
+        "url_related_articles": "/scholar?q=related:LykH-Is484cJ:scholar.google.com/&scioq=phytophotodermatitis&hl=en&scisbd=1&as_sdt=0,33"
+    }
+]

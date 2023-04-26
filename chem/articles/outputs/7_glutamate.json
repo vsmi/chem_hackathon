@@ -1,0 +1,53 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "A very rare case of Diabetes mellitus occurring in a patient with Hyperinsulinism Hyperammonemia Syndrome",
+            "author": [
+                "FNU Komal",
+                "O Olajide"
+            ],
+            "pub_year": "NA",
+            "venue": "AACE Clinical Case Reports",
+            "abstract": "2 days ago -  Hyperinsulinism hyperammonemia syndrome is caused by a heterozygous  missense amino acid substitution on the GLUD1(Glutamate Dehydrogenase 1) gene. Patients"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.aaceclinicalcasereports.com/article/S2376-0605(23)00096-2/fulltext",
+        "author_id": [
+            "",
+            "TApwDu0AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:GrZ20Nmp_h4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dglutamate%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GrZ20Nmp_h4J&ei=MptHZMC9GpiUy9YPpeupqAk&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.aaceclinicalcasereports.com/article/S2376-0605(23)00096-2/fulltext"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Chronic H3R activation reduces L-Dopa-induced dyskinesia, normalizes cortical GABA and glutamate levels, and increases striatal dopamine D1R mRNA \u2026",
+            "author": [
+                "A Avila-Luna",
+                "A G\u00e1lvez-Rosas",
+                "A Aguirre-P\u00e9rez"
+            ],
+            "pub_year": "2023",
+            "venue": "\u2026",
+            "abstract": "2 days ago -  glutamate levels in the cerebral cortex ipsi and contralateral to the lesioned  SNc, and immepip administration prevented (GABA) or reduced (glutamate)  striatal glutamate"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://link.springer.com/article/10.1007/s00213-023-06339-1",
+        "author_id": [
+            "",
+            "qLGfIB4AAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:iukKDPPVKgYJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dglutamate%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=iukKDPPVKgYJ&ei=MptHZMC9GpiUy9YPpeupqAk&json=",
+        "num_citations": 0
+    }
+]

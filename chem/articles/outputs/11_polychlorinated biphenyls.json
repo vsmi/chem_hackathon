@@ -1,0 +1,51 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Organochlorine pesticides and polychlorinated biphenyls in raw bovine milk from various dairy farms in Beja, Tunisia: contamination status, dietary intake, and health \u2026",
+            "author": [
+                "A Derouiche",
+                "A Achour",
+                "MR Driss"
+            ],
+            "pub_year": "2023",
+            "venue": "Environmental Science and Pollution \u2026",
+            "abstract": "3 days ago -  We determined organochlorine pesticides (OCPs) and polychlorinated biphenyls  (PCBs) in raw bovine milk taken directly from the milking equipment for different animals"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://link.springer.com/article/10.1007/s11356-023-26976-5",
+        "author_id": [
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:kmeZY65gb38J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dpolychlorinated%2Bbiphenyls%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kmeZY65gb38J&ei=nJtHZNiuJbeNy9YP4P6AwAg&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "How are polychlorinated biphenyls currently being produced, despite the production ban, and do they pose a risk to the environment?",
+            "author": [
+                "M Gabryszewska"
+            ],
+            "pub_year": "NA",
+            "venue": "Environmental Protection and Natural Resources",
+            "abstract": "4 days ago - Polychlorinated biphenyls (PCBs) are aromatic compounds that occur as  mixtures of congeners. There are 209 congeners of PCBs, but only about 100-130 are found in"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://sciendo.com/article/10.2478/oszn-2022-0013?tab=figures-tables",
+        "author_id": [
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:v2jfUC0mL94J:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dpolychlorinated%2Bbiphenyls%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=v2jfUC0mL94J&ei=nJtHZNiuJbeNy9YP4P6AwAg&json=",
+        "num_citations": 0,
+        "eprint_url": "https://sciendo.com/article/10.2478/oszn-2022-0013?tab=figures-tables"
+    }
+]

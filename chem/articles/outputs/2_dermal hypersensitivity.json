@@ -1,0 +1,55 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "A Rare Case of Delayed Hypersensitivity Following COVID-19 Booster Necessitating Treatment With Dupilumab",
+            "author": [
+                "M Hanoodi",
+                "K Logee"
+            ],
+            "pub_year": "2023",
+            "venue": "Cureus",
+            "abstract": "11 days ago -  dermal perivascular lymphocytic infiltration with occasional eosinophils compatible  with a dermal hypersensitivity  Delayed hypersensitivity reactions typically peak within"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.cureus.com/articles/138676-a-rare-case-of-delayed-hypersensitivity-following-covid-19-booster-necessitating-treatment-with-dupilumab.pdf",
+        "author_id": [
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:9oSCjLuDcOcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Ddermal%2Bhypersensitivity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9oSCjLuDcOcJ&ei=SppHZO76Cu2Ty9YP74OQiAw&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.cureus.com/articles/138676-a-rare-case-of-delayed-hypersensitivity-following-covid-19-booster-necessitating-treatment-with-dupilumab.pdf"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Dermal Hypersensitivity Reaction to Semaglutide: Two Case Reports.",
+            "author": [
+                "S Ouellette",
+                "G Frias",
+                "R Shah",
+                "M Alamgir"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Drugs in \u2026",
+            "abstract": "24 days ago -  Cases of hypersensitivity reactions have been previously reported in  of  hypersensitivity reactions to semaglutide. Here, we present two cases of dermal hypersensitivity"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://europepmc.org/article/med/37026881",
+        "author_id": [
+            "",
+            "",
+            "",
+            "eqws4vsAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:FzRHluEDxqoJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Ddermal%2Bhypersensitivity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=FzRHluEDxqoJ&ei=SppHZO76Cu2Ty9YP74OQiAw&json=",
+        "num_citations": 0
+    }
+]

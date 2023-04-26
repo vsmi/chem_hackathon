@@ -1,0 +1,53 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Fluid Mechanics in Circulating Tumour Cells: Role in Metastasis and Treatment Strategies",
+            "author": [
+                "S Rajput",
+                "PK Sharma",
+                "R Malviya"
+            ],
+            "pub_year": "2023",
+            "venue": "Medicine in Drug Discovery",
+            "abstract": "2 days ago -  Cancerous tissues rely on the blood supply for oxygen and nutrition, metastasis   Cancer involves gene expressions at its core, but it is also a complicated system. Cancer"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S2590098623000088",
+        "author_id": [
+            "",
+            "S3VXzJgAAAAJ",
+            "yMDGY2oAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:W3GX1LcvdnkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCancer%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=W3GX1LcvdnkJ&ei=g5pHZJfkA4r8mgGIlKNI&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S2590098623000088"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Biomarker discovery from high-throughput data by connected network-constrained support vector machine",
+            "author": [
+                "L Li",
+                "ZP Liu"
+            ],
+            "pub_year": "2023",
+            "venue": "Expert Systems with Applications",
+            "abstract": "2 days ago -  of a network, eg, cancer-related genes participate in an  a crucial role in cancer  biomarker discovery from high- datasets and real-world breast cancer (BRCA) datasets to"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/abs/pii/S0957417423006814",
+        "author_id": [
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:W7zyM4s_MCEJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCancer%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=W7zyM4s_MCEJ&ei=g5pHZJfkA4r8mgGIlKNI&json=",
+        "num_citations": 0
+    }
+]

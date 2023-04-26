@@ -1,0 +1,56 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Macrophage niche availability enables local monocyte proliferation in peripheral tissues",
+            "author": [
+                "AB Khan",
+                "CS Robbins"
+            ],
+            "pub_year": "2023",
+            "venue": "Nature Immunology",
+            "abstract": "25 days ago -  Furthermore, the diphtheria toxin-induced depletion of macrophages in the  IM DTR mice creates a sudden and sizable need for IM replenishment; it remains to be"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.nature.com/articles/s41590-023-01482-5",
+        "author_id": [
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:rURSdvubCVIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dtoxin-induced%2Bliver%2Bdisease%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=rURSdvubCVIJ&ei=9plHZIzwN5iUy9YPpeupqAk&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "A researcher's guide to preclinical mouse NASH models",
+            "author": [
+                "S Gallage",
+                "JEB Avila",
+                "P Ramadori",
+                "E Focaccia"
+            ],
+            "pub_year": "2022",
+            "venue": "Nature \u2026",
+            "abstract": "125 days ago -  Non-alcoholic fatty liver disease (NAFLD) and its  the most prevalent chronic  liver disease in the Western world  , diet-induced and toxin-induced models of NASH, not all of"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.nature.com/articles/s42255-022-00700-y",
+        "author_id": [
+            "LmNUM0AAAAAJ",
+            "ZNs1_r8AAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:Jf9QKDBm5X8J:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dtoxin-induced%2Bliver%2Bdisease%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Jf9QKDBm5X8J&ei=9plHZIzwN5iUy9YPpeupqAk&json=",
+        "num_citations": 6,
+        "citedby_url": "/scholar?cites=9215884569504448293&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:Jf9QKDBm5X8J:scholar.google.com/&scioq=toxin-induced+liver+disease&hl=en&scisbd=1&as_sdt=0,33"
+    }
+]

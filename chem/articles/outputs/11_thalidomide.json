@@ -1,0 +1,59 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Leveraging Ligand Affinity and Properties: Discovery of Novel Benzamide-Type Cereblon Binders for the Design of PROTACs",
+            "author": [
+                "C Steinebach",
+                "I Sosi\u010d",
+                "A Bricelj",
+                "A Murgai",
+                "L Bischof"
+            ],
+            "pub_year": "2023",
+            "venue": "NA",
+            "abstract": "3 days ago - Immunomodulatory imide drugs (IMiDs) such as thalidomide, pomalidomide,  and lenalidomide represent the most typical cereblon (CRBN) recruiters that are frequently"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://chemrxiv.org/engage/chemrxiv/article-details/643e535208c86922ff355db1",
+        "author_id": [
+            "",
+            "w4VzCWUAAAAJ",
+            "zIZz-E0AAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:N3lLIX-CNrkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dthalidomide%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=N3lLIX-CNrkJ&ei=l5tHZPGyIeCWy9YPzZW9uA8&json=",
+        "num_citations": 0,
+        "eprint_url": "https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/643e535208c86922ff355db1/original/leveraging-ligand-affinity-and-properties-discovery-of-novel-benzamide-type-cereblon-binders-for-the-design-of-prota-cs.pdf"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Impact of newly diagnosed extramedullary myeloma on outcome after first autograft followed by maintenance: A CMWP-EBMT study.",
+            "author": [
+                "N Gagelmann",
+                "DJ Eikema",
+                "L Koster"
+            ],
+            "pub_year": "2023",
+            "venue": "European Journal of \u2026",
+            "abstract": "3 days ago -  With thalidomide as reference, lenalidomide was significantly associated with  better PFS and OS, whereas bortezomib appeared to improve outcome specifically in EMD."
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://europepmc.org/article/med/37082839",
+        "author_id": [
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:GVnxy0nHPfcJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dthalidomide%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=GVnxy0nHPfcJ&ei=l5tHZPGyIeCWy9YPzZW9uA8&json=",
+        "num_citations": 0
+    }
+]

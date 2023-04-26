@@ -1,0 +1,57 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Ocular permeability, intraocular biodistribution of lipid nanocapsule formulation intended for retinal drug delivery",
+            "author": [
+                "G Christensen",
+                "D Urimi",
+                "L Lorenzo-Soler"
+            ],
+            "pub_year": "2023",
+            "venue": "European Journal of \u2026",
+            "abstract": "2 days ago -  Ocular bio-distribution on histological sections showed that around 10 % of the  LNCs  In WT retina LNCs showed no significant toxic effects up to a concentration of 5 mg/"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0939641123000929",
+        "author_id": [
+            "",
+            "vQ_4odgAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:Ys1A94-EMNcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOcular%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Ys1A94-EMNcJ&ei=XppHZITyObeNy9YP4P6AwAg&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0939641123000929"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Clinical features and management of keratoconjunctivitis associated with inadequate tear drainage",
+            "author": [
+                "L Gouvea",
+                "M Mimouni",
+                "S Alshaker",
+                "N Din"
+            ],
+            "pub_year": "2023",
+            "venue": "Canadian Journal of \u2026",
+            "abstract": "4 days ago -  Direct toxicity to the ocular surface caused by preservatives in several types  of eye drops, from topical anaesthetics to preserved topical steroids, 4 , 5 , 11, 12, 13 leads to"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0008418223001084",
+        "author_id": [
+            "",
+            "4pOgh9UAAAAJ",
+            "",
+            "X_oKFl8AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:BxEbypSJuFMJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DOcular%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=BxEbypSJuFMJ&ei=XppHZITyObeNy9YP4P6AwAg&json=",
+        "num_citations": 0
+    }
+]

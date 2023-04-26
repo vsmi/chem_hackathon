@@ -1,0 +1,56 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Potentially Toxic Elements in Pharmaceutical Industrial Effluents: A Review on Risk Assessment, Treatment, and Management for Human Health",
+            "author": [
+                "HK Okoro",
+                "MM Orosun",
+                "FA Oriade",
+                "TM Momoh-Salami"
+            ],
+            "pub_year": "2023",
+            "venue": "Sustainability",
+            "abstract": "4 days ago - Potentially toxic elements (PTEs) are metallic chemicals  water, edibles, and  dermal vulnerability at intervals. This  substances, particularly toxic elements and metalloids,"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.mdpi.com/2071-1050/15/8/6974",
+        "author_id": [
+            "9Trs7GYAAAAJ",
+            "mvqVlp4AAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:uOBoEAWu8SIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Ddermal%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=uOBoEAWu8SIJ&ei=O5pHZL2qCIr8mgGIlKNI&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.mdpi.com/2071-1050/15/8/6974"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Sustainable and nutrition-sensitive food systems for healthy diets and prevention of malnutrition in Europe and Central Asia",
+            "author": [
+                "C Fang",
+                "M Gurinovi\u0107"
+            ],
+            "venue": "NA",
+            "pub_year": "NA",
+            "abstract": "4 days ago -  the ingestion of contaminated foodstuffs, while dermal exposure results in slow  and insignificant absorption. However, the most toxic representative of this group, aflatoxin"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.researchgate.net/profile/Dragan-Milicevic-2/publication/365686498_In_book_FAO_publication_Chapter_3_Mycotoxins_incidence_in_southeastern_Europe_countries_Implication_on_the_food_supply_chain/links/643a65f11b8d044c6326d35c/In-book-FAO-publication-Chapter-3-Mycotoxins-incidence-in-southeastern-Europe-countries-Implication-on-the-food-supply-chain.pdf",
+        "author_id": [
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:ZTkpjRBmiygJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Ddermal%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ZTkpjRBmiygJ&ei=O5pHZL2qCIr8mgGIlKNI&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.researchgate.net/profile/Dragan-Milicevic-2/publication/365686498_In_book_FAO_publication_Chapter_3_Mycotoxins_incidence_in_southeastern_Europe_countries_Implication_on_the_food_supply_chain/links/643a65f11b8d044c6326d35c/In-book-FAO-publication-Chapter-3-Mycotoxins-incidence-in-southeastern-Europe-countries-Implication-on-the-food-supply-chain.pdf"
+    }
+]

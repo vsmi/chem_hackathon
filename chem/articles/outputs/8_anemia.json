@@ -1,0 +1,58 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Efficacy and safety of baricitinib in Japanese patients with autoinflammatory type I interferonopathies (NNS/CANDLE, SAVI, And AGS)",
+            "author": [
+                "N Kanazawa",
+                "T Ishii",
+                "Y Takita"
+            ],
+            "pub_year": "2023",
+            "venue": "Pediatric \u2026",
+            "abstract": "2 days ago - This study evaluated the efficacy and safety of baricitinib (Janus kinase-1/2  inhibitor), in adult and pediatric Japanese patients with Nakajo-Nishimura syndrome/chronic"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://ped-rheum.biomedcentral.com/articles/10.1186/s12969-023-00817-8",
+        "author_id": [
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:muEu64cq5rkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Danemia%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=muEu64cq5rkJ&ei=PptHZMvZBvKP6rQPzs6N8A0&json=",
+        "num_citations": 0,
+        "eprint_url": "https://ped-rheum.biomedcentral.com/articles/10.1186/s12969-023-00817-8"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Comparison of Oral Daily and Alternate Iron Regimen in Iron Deficiency Anemia: A Randomized Controlled Intervention",
+            "author": [
+                "N Khandelwal",
+                "K Garg",
+                "VS Charan",
+                "A Gupta"
+            ],
+            "pub_year": "NA",
+            "venue": "Age (Years)",
+            "abstract": "2 days ago - Introduction: This study was conducted to determine the difference in change  in reticulocyte count and hemoglobin after 28 days of daily and alternate iron therapy."
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.researchgate.net/profile/Ajay-Gupta-87/publication/370073190_Comparison_of_Oral_Daily_and_Alternate_Iron_Regimen_in_Iron_Deficiency_Anemia_A_Randomized_Controlled_Intervention/links/643e42a2e881690c4be07514/Comparison-of-Oral-Daily-and-Alternate-Iron-Regimen-in-Iron-Deficiency-Anemia-A-Randomized-Controlled-Intervention.pdf",
+        "author_id": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:kF3nEFCv4YAJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Danemia%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kF3nEFCv4YAJ&ei=PptHZMvZBvKP6rQPzs6N8A0&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.researchgate.net/profile/Ajay-Gupta-87/publication/370073190_Comparison_of_Oral_Daily_and_Alternate_Iron_Regimen_in_Iron_Deficiency_Anemia_A_Randomized_Controlled_Intervention/links/643e42a2e881690c4be07514/Comparison-of-Oral-Daily-and-Alternate-Iron-Regimen-in-Iron-Deficiency-Anemia-A-Randomized-Controlled-Intervention.pdf"
+    }
+]

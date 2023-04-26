@@ -1,0 +1,55 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Polyolefin-derived carbon nanotubes as magnetic catalysts for wet peroxide oxidation of paracetamol in aqueous solutions",
+            "author": [
+                "JLD de Tuesta",
+                "AS Silva",
+                "FF Roman",
+                "LF Sanches"
+            ],
+            "pub_year": "2023",
+            "venue": "Catalysis Today",
+            "abstract": "2 days ago - This work deals with developing feasible valorization technologies to prepare  carbon nanotubes (CNTs) from plastic solid waste and demonstrate their application in"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0920586123001864",
+        "author_id": [
+            "2oMGQL0AAAAJ",
+            "dMn9B1EAAAAJ",
+            "8smhVCUAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:ES6-ehjV1q0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dparacetamol%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ES6-ehjV1q0J&ei=D5pHZJ2iIdiWy9YP8tmT4AI&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Modern methods for evaluating acute and chronic pain after abdominal hysterectomy",
+            "author": [
+                "OV Filyk",
+                "AV Ryzhkovskyi"
+            ],
+            "pub_year": "2023",
+            "venue": "EMERGENCY \u2026",
+            "abstract": "3 days ago -  In all patients dexketoprofen was used as a preemptive component of analgesia,  and as a postoperative analgesia, a combination of paracetamol and dexketoprofen was"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://emergency.zaslavsky.com.ua/index.php/journal/article/view/1555",
+        "author_id": [
+            "KRfty5cAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:go-mfXCOPMoJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dparacetamol%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=go-mfXCOPMoJ&ei=D5pHZJ2iIdiWy9YP8tmT4AI&json=",
+        "num_citations": 0,
+        "eprint_url": "https://emergency.zaslavsky.com.ua/index.php/journal/article/download/1555/1662"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Label-free electrochemical immunosensor for Ochratoxin a detection in coffee samples",
+            "author": [
+                "JP de Oliveira",
+                "F Burgos-Fl\u00f3rez",
+                "I Sampaio",
+                "P Villalba"
+            ],
+            "pub_year": "2023",
+            "venue": "Talanta",
+            "abstract": "2 days ago - Ochratoxin A (OTA) is a nephrotoxic and carcinogenic mycotoxin frequently  found in coffee, which directly impacts human health and the economy of many countries. For"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0039914023003375",
+        "author_id": [
+            "",
+            "oLQFe4sAAAAJ",
+            "TBCLDgIAAAAJ",
+            "dLjE-TQAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:lv2AHCBQTXIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dcarcinogen%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=lv2AHCBQTXIJ&ei=jppHZIfBLr3GsQLO1Y6ADA&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Synthesis and characterization of modified silica nanoparticles based molecularly imprinted polymers as a sensor for selective detection of pendimethalin from \u2026",
+            "author": [
+                "M Noor",
+                "KM Iqbal",
+                "T Kanwal",
+                "K Rehman",
+                "M Ali"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Molecular \u2026",
+            "abstract": "2 days ago -  US Environmental Protection Agency (EPA) declared the PND as a possible  human carcinogen (group C). This study demonstrated the synthesis of modified silica"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0022286023007317",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "ETI3x50AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:b4SAZmloj6cJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dcarcinogen%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=b4SAZmloj6cJ&ei=jppHZIfBLr3GsQLO1Y6ADA&json=",
+        "num_citations": 0
+    }
+]

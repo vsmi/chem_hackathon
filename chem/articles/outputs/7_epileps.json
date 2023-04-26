@@ -1,0 +1,54 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "On-scene time delays for epileptic seizures in emergencies during a social pandemic: A population-based study",
+            "author": [
+                "H Yamada",
+                "S Neshige",
+                "M Nonaka",
+                "Y Takebayashi"
+            ],
+            "pub_year": "2023",
+            "venue": "Epilepsy & Behavior",
+            "abstract": "2 days ago -  for people with epilepsy (PWE) with seizures needing immediate amelioration.   with the Epilepsy Center in Hiroshima University Hospital, the largest epilepsy center in"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1525505023001300",
+        "author_id": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:nPE8ZTQmzE8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Depilepsy%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=nPE8ZTQmzE8J&ei=JZtHZKPMC8mN6rQPxe6VwA0&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Neuroradiological and pathohistological markers of the main epileptogenic substrates in children. Cortical malformations",
+            "author": [
+                "MV Polyanskaya",
+                "AA Demushkina"
+            ],
+            "pub_year": "2023",
+            "venue": "Zhurnal nevrologii i \u2026",
+            "abstract": "3 days ago - High-resolution MRI is an important tool in the diagnosis of structural epilepsy  in determining the seizure initiation zones, identification of the mechanisms of"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://pubmed.ncbi.nlm.nih.gov/37084359/",
+        "author_id": [
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:qb2AMozr3xEJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Depilepsy%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=qb2AMozr3xEJ&ei=JZtHZKPMC8mN6rQPxe6VwA0&json=",
+        "num_citations": 0
+    }
+]

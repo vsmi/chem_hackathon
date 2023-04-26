@@ -1,0 +1,56 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Synthesis of Azadioxa-Planar Triphenylboranes Bridged by Aryl-and Alkylimino Groups and Their Photophysical Properties",
+            "author": [
+                "Y Kitamoto",
+                "K Oda",
+                "H Kita",
+                "T Hattori"
+            ],
+            "pub_year": "2023",
+            "venue": "The Journal of Organic \u2026",
+            "abstract": "3 days ago -  aromatic substitution reaction of benzyl amine and following debenzylation.  The X-ray crystallographic analysis revealed that the compound exhibits a planar molecular"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acs.joc.3c00275",
+        "author_id": [
+            "wCO0ntQAAAAJ",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:0Mpd43GPI2YJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Daromatic%2Bamines%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=0Mpd43GPI2YJ&ei=zppHZNS8BYuyyATUuZrICw&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Overlooked Contribution of the Indole Moiety to the Formation of Haloacetonitrile Disinfection Byproducts",
+            "author": [
+                "ZT Kralles",
+                "CA Werner",
+                "N Dai"
+            ],
+            "pub_year": "2023",
+            "venue": "Environmental Science & \u2026",
+            "abstract": "4 days ago -  3-Indolepropionic acid, differing from tryptophan only in the absence of the  free amine  substitutions, and an intermediate with a postulated non-aromatic ring structure."
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acs.est.3c01080",
+        "author_id": [
+            "AUYEXuMAAAAJ",
+            "",
+            "tZSExNsAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:BVKh6JrL7dIJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Daromatic%2Bamines%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=BVKh6JrL7dIJ&ei=zppHZNS8BYuyyATUuZrICw&json=",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Theoretical study of local S coordination environment on Fe single atoms for peroxymonosulfate-based advanced oxidation processes",
+            "author": [
+                "X Wang",
+                "C Zhang",
+                "D Li",
+                "Y Sun",
+                "J Ren",
+                "J Sun"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Hazardous \u2026",
+            "abstract": "2 days ago -  The dual index \u2206f(r) indicates that the para-carbon atom of the hydroxyl group  on the benzene ring of BPA is vulnerable to radical attack. This study highlights a theoretical"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0304389423007525",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:HMGJe6M6HagJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dbenzene%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=HMGJe6M6HagJ&ei=4ppHZL_HJouyyATUuZrICw&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Research progress in human biological monitoring of aromatic hydrocarbon with emphasis on the analytical technology of biomarkers",
+            "author": [
+                "X Huang",
+                "Z Li",
+                "T Zhang",
+                "J Zhu",
+                "X Wang",
+                "M Nie"
+            ],
+            "pub_year": "2023",
+            "venue": "Ecotoxicology and \u2026",
+            "abstract": "2 days ago - Aromatic hydrocarbons are unsaturated compounds containing carbon and  hydrogen that form single aromatic ring, or double, triple, or multiple fused rings. This review"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0147651323004219",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:K3rh2TUZ0QsJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dbenzene%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=K3rh2TUZ0QsJ&ei=4ppHZL_HJouyyATUuZrICw&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0147651323004219"
+    }
+]

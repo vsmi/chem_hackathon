@@ -1,0 +1,66 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "An electrochemiluminescence immunosensor based on signal magnification of luminol using OER-activated NiFe2O4@ C@ CeO2/Au as effective co-reaction \u2026",
+            "author": [
+                "R Zhou",
+                "T Li",
+                "T Chen",
+                "Y Tang",
+                "Y Chen",
+                "X Huang"
+            ],
+            "pub_year": "2023",
+            "venue": "Talanta",
+            "abstract": "2 days ago -  FeNi-MOF could offer better activity of oxygen evolution reaction (OER). Herein,  the NiFe  has excellent OER activity and production of reactive oxygen species (ROS), thus"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0039914023003314",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:s5Jan9hH93EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dreactive%2Boxygen%2Bspecies%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=s5Jan9hH93EJ&ei=sJpHZNPZJtiWy9YP8tmT4AI&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Transferrin-Targeted Iridium Nanoagglomerates with Multi-Enzyme Activities for Cerebral Ischemia-Reperfusion Injury Therapy",
+            "author": [
+                "W Du",
+                "J Wang",
+                "L Zhou",
+                "J Zhou",
+                "L Feng",
+                "C Dou"
+            ],
+            "pub_year": "2023",
+            "venue": "Acta Biomaterialia",
+            "abstract": "2 days ago -  In particular, reperfusion can stimulate overproduction of reactive oxygen  species (ROS) and activation of inflammation, causing severe secondary injuries to the brain."
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1742706123002179",
+        "author_id": [
+            "Ke0rrDgAAAAJ",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:TO6x_72T0o4J:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dreactive%2Boxygen%2Bspecies%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TO6x_72T0o4J&ei=sJpHZNPZJtiWy9YP8tmT4AI&json=",
+        "num_citations": 0
+    }
+]

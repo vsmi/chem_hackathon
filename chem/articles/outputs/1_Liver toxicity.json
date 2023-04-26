@@ -1,0 +1,55 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Review of the oral toxicity of cannabidiol (CBD)",
+            "author": [
+                "J Gingrich",
+                "S Choudhuri",
+                "P Cournoyer"
+            ],
+            "pub_year": "2023",
+            "venue": "Food and Chemical \u2026",
+            "abstract": "2 days ago -  For example, early signs of liver toxicity would go undetected without monitoring  for such effects. Additionally, effects observed on the male reproductive system in animal"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0278691523002016",
+        "author_id": [
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:hst9Ksn9IycJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLiver%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hst9Ksn9IycJ&ei=2JlHZMSfE4r8mgGIlKNI&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Favipiravir Inhibits Zika Virus (ZIKV) Replication in HeLa Cells by Altering Viral Infectivity",
+            "author": [
+                "EJ Franco",
+                "KC Hanrahan",
+                "AN Brown"
+            ],
+            "pub_year": "2023",
+            "venue": "Microorganisms",
+            "abstract": "2 days ago -  Although the liver is not considered a target tissue during infection with ZIKV,  we  Our results indicate that FAV was not toxic to HeLa (Figure 2A), SK-N-MC (Figure 2B), or"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.mdpi.com/2076-2607/11/5/1097",
+        "author_id": [
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:XyjNTXlPHo8J:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DLiver%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=XyjNTXlPHo8J&ei=2JlHZMSfE4r8mgGIlKNI&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.mdpi.com/2076-2607/11/5/1097"
+    }
+]

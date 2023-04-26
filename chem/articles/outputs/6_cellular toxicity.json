@@ -1,0 +1,60 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Fe3O4-rhodamine 6G nanoparticles: An iron enhanced pH sensitive multimodal probe for fluorescence and magnetic resonance imaging of tumor cell",
+            "author": [
+                "K Wang",
+                "J Wang",
+                "X Xu",
+                "M Rong",
+                "L Lu",
+                "X Zhao"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Materials \u2026",
+            "abstract": "2 days ago -  Cytotoxicity assessment in HeLa cells proves the good biocompatibility and  low toxicity of the Fe 3 O 4 -Rh6G NPs. The consequent fluorescence experiments in tumor"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1005030223003328",
+        "author_id": [
+            "",
+            "",
+            "",
+            "nM7E3KsAAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:deffpIpn7QcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dcellular%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=deffpIpn7QcJ&ei=_JpHZN3TMpiUy9YPpeupqAk&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Review of the oral toxicity of cannabidiol (CBD)",
+            "author": [
+                "J Gingrich",
+                "S Choudhuri",
+                "P Cournoyer"
+            ],
+            "pub_year": "2023",
+            "venue": "Food and Chemical \u2026",
+            "abstract": "2 days ago -  -drug interactions and cellular accumulation of xenobiotics that are normally  transported out of the cell. The mechanisms of CBD-mediated toxicity are not fully understood,"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0278691523002016",
+        "author_id": [
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:hst9Ksn9IycJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dcellular%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hst9Ksn9IycJ&ei=_JpHZN3TMpiUy9YPpeupqAk&json=",
+        "num_citations": 0
+    }
+]

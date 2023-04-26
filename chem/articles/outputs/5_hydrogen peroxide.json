@@ -1,0 +1,65 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Synchronous Interventions of Glucose and Mitochondrial Metabolisms for Antitumor Bioenergetic Therapy",
+            "author": [
+                "M Li",
+                "X Luo",
+                "S Lei",
+                "Y Liu",
+                "H Guo",
+                "Y Zhang",
+                "Y Pan"
+            ],
+            "pub_year": "NA",
+            "venue": "Advanced \u2026",
+            "abstract": "2 days ago -  To overcome this flexibility, a glycopolymer containing a caged H2S and  hydrogen peroxide (H2O2) dual-donor (1-thio-\u03b2-D-glucose [thioglucose]) was synthesized to wrap"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.202301099",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:j76eJm8gNnsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dhydrogen%2Bperoxide%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=j76eJm8gNnsJ&ei=xppHZNq9JtiWy9YP8tmT4AI&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Can Cold Atmospheric Plasma Used for Infection Control in Burns? A Preclinical Evaluation",
+            "author": [
+                "M Bagheri",
+                "M von Kohout",
+                "A Zoric",
+                "PC Fuchs"
+            ],
+            "pub_year": "2023",
+            "venue": "Biomedicines",
+            "abstract": "2 days ago -  CAP induced an accumulation of nitrite, nitrate, and hydrogen peroxide,  combined with a decrease in pH in agar and solutions, which could be responsible for the"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.mdpi.com/2227-9059/11/5/1239",
+        "author_id": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:07yk5_8X2wgJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dhydrogen%2Bperoxide%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=07yk5_8X2wgJ&ei=xppHZNq9JtiWy9YP8tmT4AI&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.mdpi.com/2227-9059/11/5/1239"
+    }
+]

@@ -1,0 +1,60 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Transferrin-Targeted Iridium Nanoagglomerates with Multi-Enzyme Activities for Cerebral Ischemia-Reperfusion Injury Therapy",
+            "author": [
+                "W Du",
+                "J Wang",
+                "L Zhou",
+                "J Zhou",
+                "L Feng",
+                "C Dou"
+            ],
+            "pub_year": "2023",
+            "venue": "Acta Biomaterialia",
+            "abstract": "2 days ago - Cerebral ischemia-reperfusion injury (CIRI) is a complex pathological condition  with high mortality. In particular, reperfusion can stimulate overproduction of reactive"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1742706123002179",
+        "author_id": [
+            "Ke0rrDgAAAAJ",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:TO6x_72T0o4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dsuperoxide%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TO6x_72T0o4J&ei=uppHZNPYLPKP6rQPzs6N8A0&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Maternal supplementation of L-Carnosine improves Reflexive Motor Behaviors in Mice Offspring",
+            "author": [
+                "S Hajimoradi",
+                "S Hassanpour",
+                "B Vazir"
+            ],
+            "pub_year": "2023",
+            "venue": "Neuroscience Letters",
+            "abstract": "2 days ago - This study aimed to investigate the effect of maternal supplementation of L-carnosine  on improved reflexive motor behaviors in mice offspring. Forty pregnant female NMRI"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/abs/pii/S0304394023002252",
+        "author_id": [
+            "",
+            "PxUEajkAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:4z9O1NE-yJIJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dsuperoxide%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4z9O1NE-yJIJ&ei=uppHZNPYLPKP6rQPzs6N8A0&json=",
+        "num_citations": 0
+    }
+]

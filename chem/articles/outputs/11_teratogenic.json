@@ -1,0 +1,54 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Society for Maternal-Fetal Medicine Consult Series# 66: Pre-pregnancy Evaluation and Pregnancy Management of Patients with Solid Organ Transplants",
+            "author": [
+                "RA Irani",
+                "LA Coscia",
+                "E Chang",
+                "JR Lappen"
+            ],
+            "pub_year": "2023",
+            "venue": "American Journal of Obstetrics \u2026",
+            "abstract": "3 days ago -  transplant 34 recipients of reproductive age use highly effective contraception  when on mycophenolate or 35 other immunosuppressive agents with known teratogenic risk"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.ajog.org/article/S0002-9378(23)00253-3/abstract",
+        "author_id": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:rfxV1VyVqHkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dteratogenic%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=rfxV1VyVqHkJ&ei=aJtHZLfWPNiWy9YP8tmT4AI&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Concentrations of the glyphosate\u2010based herbicide Roundup\u00ae causes developmental defects in Artemia salina",
+            "author": [
+                "H Darmani",
+                "DRH Al\u2010Saleh"
+            ],
+            "pub_year": "2023",
+            "venue": "Environmental Toxicology and \u2026",
+            "abstract": "3 days ago -  \u00ae on cyst hatchability, toxicity, and teratogenic effects in the aquatic crustacean  Artemia  \u03bcg/mL glyphosate, signifies possible teratogenicity of Roundup\u00ae exposure even at"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://setac.onlinelibrary.wiley.com/doi/abs/10.1002/etc.5639",
+        "author_id": [
+            "V54P6ekAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:HbzXAB-lnPAJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dteratogenic%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=HbzXAB-lnPAJ&ei=aJtHZLfWPNiWy9YP8tmT4AI&json=",
+        "num_citations": 0
+    }
+]

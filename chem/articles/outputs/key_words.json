@@ -1,0 +1,107 @@
+{
+  "1": [
+   "Liver toxicity",
+   "liver injury",
+   "hepatotoxicity",
+   "hepatic effect",
+   "liver necrosis",
+   "DILI",
+   "Toxic liver disease",
+   "toxin-induced liver disease",
+   "drug-induced liver disease",
+   "drug-induced liver damage",
+   "hepatogenous poisoning",
+   "paracetamol",
+   "glucocorticoids",
+   "isoniazid",
+   "MAOI antidepressant iproniazid",
+   "alpha-amanitin"
+  ],
+  "2": [
+   "Skin sensitisation",
+   "dermal toxicity",
+   "dermal irritation",
+   "dermal corrosion",
+   "dermal hypersensitivity",
+   "skin toxicity"
+  ],
+  "3": [
+   "Ocular toxicity",
+   "eye toxicity"
+  ],
+  "4": [
+   "Blood toxicity",
+   "cardiovascular toxicity",
+   "blockade of hERG",
+   "hERG blockade"
+  ],
+  "5": [
+   "Cancer",
+   "mutagenicity",
+   "carcinogenesis",
+   "carcinogen",
+   "abnormal cell growth",
+   "immune suppression",
+   "tumor",
+   "Benign tumors",
+   "Malignant tumors",
+   "metastasis",
+   "PAH",
+   "reactive oxygen species",
+   "ROS",
+   "superoxide",
+   "hydroxyl radicals",
+   "hydrogen peroxide",
+   "polycyclic aromatic hydrocarbons",
+   "aromatic amines",
+   "bromine",
+   "azide",
+   "psoralen",
+   "benzene",
+   "deaminating agent",
+   "heavy metals"
+  ],
+  "6": [
+   "Cytotoxic effect",
+   "cytotoxicity",
+   "cellular toxicity",
+   "apoptosis",
+   "cell lysis"
+  ],
+  "7": [
+   "Neurotoxicity",
+   "Convulsive seizures",
+   "epileps",
+   "neurotoxin",
+   "amyloid beta",
+   "glutamate",
+   "oxygen radicals"
+  ],
+  "8": [
+   "Hemolytic toxicity",
+   "hemolysis",
+   "anemia"
+  ],
+  "9": [
+   "Phototoxicity",
+   "photoirritation",
+   "photodermatitis",
+   "phytophotodermatitis"
+  ],
+  "10": [
+   "Reproductive toxicity",
+   "infertility"
+  ],
+  "11": [
+   "teratotoxicity",
+   "teratogenic",
+   "chromosomal abnormalities",
+   "thalidomide",
+   "polychlorinated biphenyls",
+   "PCBs"
+  ]
+ }
+
+
+
+

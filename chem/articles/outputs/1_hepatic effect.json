@@ -1,0 +1,59 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "A multi-level assessment of biological effects associated with mercury concentrations in smallmouth bass, Micropterus dolomieu",
+            "author": [
+                "VS Blazer",
+                "HL Walsh",
+                "AJ Sperry",
+                "B Raines"
+            ],
+            "pub_year": "2023",
+            "venue": "Environmental \u2026",
+            "abstract": "2 days ago -  plasma vitellogenin and hepatic transcript abundance of  plasma vitellogenin  as well as hepatic transcript abundance of  adverse effects in smallmouth bass populations."
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0269749123006905",
+        "author_id": [
+            "",
+            "Ekm06JEAAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:UrSJSIKmK4IJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dhepatic%2Beffect%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=UrSJSIKmK4IJ&ei=45lHZO6_IOCWy9YPzZW9uA8&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Osajin from Maclura pomifera alleviates sepsis-induced liver injury in rats: biochemical, histopathological and immunohistochemical estimation",
+            "author": [
+                "M Alhilal",
+                "HS Erol",
+                "S Yildirim",
+                "A Cakir"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Taibah \u2026",
+            "abstract": "2 days ago -  to examine the protective effect of isolated  hepatic histopathological examination  to support the biochemical findings and to obtain a visualization of the structure of hepatic"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/16583655.2023.2201250",
+        "author_id": [
+            "qbworksAAAAJ",
+            "",
+            "-FWeuRUAAAAJ",
+            "wkPj3dsAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:kKSR-vP4mWUJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dhepatic%2Beffect%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kKSR-vP4mWUJ&ei=45lHZO6_IOCWy9YPzZW9uA8&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.tandfonline.com/doi/pdf/10.1080/16583655.2023.2201250"
+    }
+]

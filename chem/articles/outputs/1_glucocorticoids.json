@@ -1,0 +1,55 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Hypothalamus-pituitary-interrenal (HPI) axis signaling in Atlantic sturgeon (Acipenser oxyrinchus) and sterlet (Acipenser ruthenus)",
+            "author": [
+                "CA Shaughnessy",
+                "VD Myhre",
+                "DJ Hall"
+            ],
+            "pub_year": "2023",
+            "venue": "General and \u2026",
+            "abstract": "2 days ago - In vertebrates, the hypothalamic-pituitary-adrenal/interrenal (HPA/HPI) axis is  a highly conserved endocrine axis that regulates glucocorticoid production via signaling by"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0016648023000953",
+        "author_id": [
+            "CN5EMFoAAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:jUT2bUBSU6gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dglucocorticoids%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jUT2bUBSU6gJ&ei=FJpHZLa4FIuGmgHE44ewAg&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Baseline corticosterone levels in spadefoot toads reflect alternate larval diets one year later",
+            "author": [
+                "CC Led\u00f3n-Rettig",
+                "K Lo",
+                "SR Lagon"
+            ],
+            "pub_year": "2023",
+            "venue": "General and Comparative \u2026",
+            "abstract": "2 days ago -  Plasma samples collected in this study demonstrate that early-life diet types  can modify glucocorticoid regulation into adult life, extending the results of an earlier study ("
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0016648023000965",
+        "author_id": [
+            "fhoxytoAAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:cZ_mhWxTXvkJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dglucocorticoids%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=cZ_mhWxTXvkJ&ei=FJpHZLa4FIuGmgHE44ewAg&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0016648023000965"
+    }
+]

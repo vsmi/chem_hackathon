@@ -1,0 +1,61 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Transferrin-Targeted Iridium Nanoagglomerates with Multi-Enzyme Activities for Cerebral Ischemia-Reperfusion Injury Therapy",
+            "author": [
+                "W Du",
+                "J Wang",
+                "L Zhou",
+                "J Zhou",
+                "L Feng",
+                "C Dou"
+            ],
+            "pub_year": "2023",
+            "venue": "Acta Biomaterialia",
+            "abstract": "2 days ago -  Under the inspiration of CeO 2 nanoparticles, it was predicted that Tf-IrO 2  NAs are also capable of scavenging free radicals by means of reversibly binding oxygen and"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1742706123002179",
+        "author_id": [
+            "Ke0rrDgAAAAJ",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:TO6x_72T0o4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Doxygen%2Bradicals%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TO6x_72T0o4J&ei=NZtHZJDWGP6G6rQP1tWksAc&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Enhanced photocatalytic activity of g-C3N4\u2013np type flower-like ZnO/BiOBr heterojunction for hexavalent chromium and dye wastewater degradation",
+            "author": [
+                "TXQ Nguyen",
+                "SS Chen",
+                "M Pasawan"
+            ],
+            "pub_year": "2023",
+            "venue": "\u2026 Technology & Innovation",
+            "abstract": "2 days ago -  Reactive species trapping and hydroxyl radical  radical scavengers of holes  (h + ) and hydroxyl radicals  performed to examine the effect of dissolved oxygen (Duo et al.,"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S2352186423001505",
+        "author_id": [
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:J2yN8Yu9QkIJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Doxygen%2Bradicals%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=J2yN8Yu9QkIJ&ei=NZtHZJDWGP6G6rQP1tWksAc&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S2352186423001505"
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Elevated methylmercury in Antarctic surface seawater: The role of phytoplankton mass and sea ice",
+            "author": [
+                "F Yue",
+                "Y Li",
+                "Y Zhang",
+                "L Wang",
+                "D Li",
+                "P Wu",
+                "H Liu"
+            ],
+            "pub_year": "2023",
+            "venue": "Science of The Total \u2026",
+            "abstract": "2 days ago - Methylmercury is a neurotoxin that is biomagnified in marine food webs. Its  distribution and biogeochemical cycle in Antarctic seas are still poorly understood due to scarce"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/abs/pii/S0048969723022660",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:tfPY1yDX7T8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dneurotoxin%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tfPY1yDX7T8J&ei=KptHZMLfE-2Ty9YP74OQiAw&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Mild Traumatic Brain Injury-Induced Augmented Postsurgical Pain Is Driven by Central Serotonergic Pain-Facilitatory Signaling.",
+            "author": [
+                "Q Chen",
+                "P Sahbaie",
+                "KA Irvine",
+                "JD Clark"
+            ],
+            "pub_year": "2023",
+            "venue": "Anesthesia and Analgesia",
+            "abstract": "3 days ago - Background Individuals recovering from mild traumatic brain injury (mTBI) have  increased rates of acute and chronic pain. However, the mechanism through which mTBI"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://europepmc.org/article/med/37083595",
+        "author_id": [
+            "",
+            "",
+            "2iwCHD8AAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:CspFCnY9lhUJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dneurotoxin%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=CspFCnY9lhUJ&ei=KptHZMLfE-2Ty9YP74OQiAw&json=",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Iris or Eye Diaphragm Sign, Blood Pool, Bright Dot Sign, Peripheral Puddles Pattern, and Clouds of Contrast Enhancement",
+            "author": [
+                "A Yudin"
+            ],
+            "pub_year": "2023",
+            "venue": "Metaphorical Signs in Computed Tomography of Chest \u2026",
+            "abstract": "2 days ago -  Hemangiomas (venous malformations of the liver) are considered the most  common benign liver tumors. Computed tomography is a reliable method for diagnosing"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://link.springer.com/chapter/10.1007/978-3-031-24494-0_63",
+        "author_id": [
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:LyrcjHXZXnIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBenign%2Btumors%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=LyrcjHXZXnIJ&ei=n5pHZNL8M4uGmgHE44ewAg&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Pathology, Genetics, and Molecular Biology",
+            "author": [
+                "V Siozopoulou"
+            ],
+            "pub_year": "2023",
+            "venue": "NA",
+            "abstract": "3 days ago -  Fibroma of the tendon sheath is a benign soft tissue tumor. There is no  malignant counterpart. It consists of a fibroblastic/myofibroblastic proliferation that is typically"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://link.springer.com/chapter/10.1007/174_2023_409",
+        "author_id": [
+            "3DzTk4IAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:afOiwC8glFAJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBenign%2Btumors%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=afOiwC8glFAJ&ei=n5pHZNL8M4uGmgHE44ewAg&json=",
+        "num_citations": 0
+    }
+]

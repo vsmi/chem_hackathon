@@ -1,0 +1,60 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "The global Fatty Liver Disease-Sustainable Development Goal country score for 195 countries and territories",
+            "author": [
+                "JV Lazarus",
+                "H Han",
+                "HE Mark",
+                "SA Alqahtani"
+            ],
+            "pub_year": "NA",
+            "venue": "Hepatology",
+            "abstract": "2 days ago -  supported by the EASL International Liver Foundation, which acknowledges  funding  the European Association for the Study of the Liver, outside the submitted work. TC"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://journals.lww.com/hep/Abstract/9900/The_global_Fatty_Liver_Disease_Sustainable.395.aspx",
+        "author_id": [
+            "FEqdEyMAAAAJ",
+            "",
+            "",
+            "hFAAUQ4AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:tjQKa2mNsh8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dliver%2Binjury%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tjQKa2mNsh8J&ei=3JlHZMHLNouGmgHE44ewAg&json=",
+        "num_citations": 0,
+        "eprint_url": "https://journals.lww.com/hep/Abstract/9900/The_global_Fatty_Liver_Disease_Sustainable.395.aspx"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Osajin from Maclura pomifera alleviates sepsis-induced liver injury in rats: biochemical, histopathological and immunohistochemical estimation",
+            "author": [
+                "M Alhilal",
+                "HS Erol",
+                "S Yildirim",
+                "A Cakir"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Taibah \u2026",
+            "abstract": "2 days ago -  a critical role in curtailment liver injury in the REF group. The possible protective  effect of OSJ against sepsis-induced liver injury was examined by checking parameters of"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/16583655.2023.2201250",
+        "author_id": [
+            "qbworksAAAAJ",
+            "",
+            "-FWeuRUAAAAJ",
+            "wkPj3dsAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:kKSR-vP4mWUJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dliver%2Binjury%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kKSR-vP4mWUJ&ei=3JlHZMHLNouGmgHE44ewAg&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.tandfonline.com/doi/pdf/10.1080/16583655.2023.2201250"
+    }
+]

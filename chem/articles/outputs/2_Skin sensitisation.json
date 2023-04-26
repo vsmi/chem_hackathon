@@ -1,0 +1,54 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Radiosensitising effect of iron oxide-gold nanocomplex for electron beam therapy of melanoma in vivo by magnetic targeting.",
+            "author": [
+                "M Mohamadkazem",
+                "A Neshastehriz",
+                "SM Amini"
+            ],
+            "pub_year": "2023",
+            "venue": "IET \u2026",
+            "abstract": "3 days ago -  Melanoma is a dangerous type of skin cancer sometimes treated with  radiotherapy.  In this study, the radio-sensitising effect of gold-coated iron oxide nanoparticles on"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://europepmc.org/article/med/37083267",
+        "author_id": [
+            "",
+            "nEFyOv4AAAAJ",
+            "KIa4JUIAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:mGd3M2jDA0gJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSkin%2Bsensitisation%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=mGd3M2jDA0gJ&ei=NppHZPqyKJnJsQLckZuABg&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Safety and efficacy of a feed additive consisting of Lactiplantibacillus plantarum DSM 11520 for horses, dogs, cats and pet rabbits (Animal Probiotics Sweden AB)",
+            "author": [
+                "EP on Additives",
+                "V Bampidis",
+                "G Azimonti"
+            ],
+            "pub_year": "2023",
+            "venue": "EFSA Journal",
+            "abstract": "3 days ago -  plantarum DSM 11520 is not irritant to skin or eyes in the product tested  containing  No conclusions can be drawn on the skin sensitisation potential of the additive. The"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10116392/",
+        "author_id": [
+            "",
+            "mzCOkuEAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:yQxQKPbwtZ4J:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DSkin%2Bsensitisation%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yQxQKPbwtZ4J&ei=NppHZPqyKJnJsQLckZuABg&json=",
+        "num_citations": 0
+    }
+]

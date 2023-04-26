@@ -1,0 +1,55 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Novel fluorescent mono-Br-BODIPYs as potential theranostic agents and their nanoscale zeolitic imidazolate framework delivery systems",
+            "author": [
+                "SA Dogadaeva",
+                "LA Antina",
+                "AA Ksenofontov"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Molecular \u2026",
+            "abstract": "2 days ago - The development of bifunctional theranostic agents based on biocompatible  organic luminophores is a priority for the scientific community. We have obtained new mono-Br"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0167732223006955",
+        "author_id": [
+            "",
+            "",
+            "boRoN8UAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:M31qautM8HEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dbromine%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=M31qautM8HEJ&ei=0ZpHZO7ALpiUy9YPpeupqAk&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Kinetics and Mechanism of Selenium (IV) Oxidation by Aqueous Bromine Solution",
+            "author": [
+                "G Cseko\u030b",
+                "B Nyitrai",
+                "AK Horv\u00e1th"
+            ],
+            "pub_year": "2023",
+            "venue": "ACS Omega",
+            "abstract": "3 days ago -  bromine\u2013selenite reaction at strongly acidic conditions was investigated by  monitoring the absorbance\u2013time traces at the isosbestic point of the bromine reactants bromine"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acsomega.3c01497",
+        "author_id": [
+            "jVzKH4kAAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:QSzrbBiRPZcJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dbromine%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QSzrbBiRPZcJ&ei=0ZpHZO7ALpiUy9YPpeupqAk&json=",
+        "num_citations": 0,
+        "eprint_url": "https://pubs.acs.org/doi/full/10.1021/acsomega.3c01497"
+    }
+]

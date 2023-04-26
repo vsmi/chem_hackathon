@@ -1,0 +1,60 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "In vitro safety assessment of electrohydrodynamically encapsulated Lactiplantibacillus plantarum CRD7 and Lacticaseibacillus rhamnosus CRD11 for \u2026",
+            "author": [
+                "VV Varada",
+                "D Panneerselvam",
+                "HA Pushpadass"
+            ],
+            "pub_year": "2023",
+            "venue": "Current Research in \u2026",
+            "abstract": "2 days ago -  non-toxic to  -hemolytic or gamma hemolysis (\u03b3). Staphylococcus aureus  ATCC9144 was used as a positive reference strain that exhibited complete hemolysis (\u03b2 hemolysis"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S2665927123000758",
+        "author_id": [
+            "",
+            "",
+            "VT1lG8UAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:QeVx1gFmAT4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHemolytic%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QeVx1gFmAT4J&ei=OJtHZPPlCu2Ty9YP74OQiAw&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S2665927123000758"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "An Assassin's Secret: Multifunctional Cytotoxic Compounds in the Predation Venom of the Assassin Bug Psytalla horrida (Reduviidae, Hemiptera)",
+            "author": [
+                "ML Fischer",
+                "B Fabian",
+                "Y Pauchet",
+                "N Wielsch",
+                "S Sachse"
+            ],
+            "pub_year": "2023",
+            "venue": "Toxins",
+            "abstract": "4 days ago -  , hemolytic, and insecticidal effects of PMG venom from the African assassin bug  P. horrida. We fractionated crude venom extracts and screened the fractions for toxic  toxic"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.mdpi.com/2072-6651/15/4/302",
+        "author_id": [
+            "",
+            "_RUfaekAAAAJ",
+            "nlnuROcAAAAJ",
+            "",
+            "S-C244QAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:ghIm7HKHdGwJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DHemolytic%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ghIm7HKHdGwJ&ei=OJtHZPPlCu2Ty9YP74OQiAw&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.mdpi.com/2072-6651/15/4/302"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Chlorophyllum Molybdites \u201cDelicious Poisoning Snack\u201d in Patients Diagnosed with Acute Gastroenteritis",
+            "author": [
+                "ZIA Khusairi",
+                "R Fazali",
+                "WM Chung",
+                "A Anuar",
+                "A Ghazali"
+            ],
+            "venue": "NA",
+            "pub_year": "NA",
+            "abstract": "66 days ago -  Alpha Amanitin levels should be checked where possible if amanita poisoning  is suspected. An early diagnosis and immediate treatment are required for a successful"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://pdfs.semanticscholar.org/cedb/207ad3106298c417be6acf0ecbab40988bf9.pdf",
+        "author_id": [
+            "",
+            "",
+            "q5nO8HwAAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:Nqa59P9IUsQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dalpha-amanitin%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Nqa59P9IUsQJ&ei=MJpHZIqWGZnJsQLckZuABg&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Characterization of complement C3 as a marker of alpha-amanitin toxicity by comparative secretome profiling",
+            "author": [
+                "D Kim",
+                "MS Lee",
+                "H Sim",
+                "S Lee",
+                "HS Lee"
+            ],
+            "pub_year": "2022",
+            "venue": "Toxicological Research",
+            "abstract": "123 days ago -  Alpha-amanitin (\u03b1-AMA) is the most widely studied amatoxin and inhibits  transcription and protein synthesis by directly interacting with RNA polymerase II. However,"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://link.springer.com/article/10.1007/s43188-022-00163-z",
+        "author_id": [
+            "g0Pf8nIAAAAJ",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:8Akck6uLVDMJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dalpha-amanitin%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=8Akck6uLVDMJ&ei=MJpHZIqWGZnJsQLckZuABg&json=",
+        "num_citations": 0,
+        "url_related_articles": "/scholar?q=related:8Akck6uLVDMJ:scholar.google.com/&scioq=alpha-amanitin&hl=en&scisbd=1&as_sdt=0,33"
+    }
+]

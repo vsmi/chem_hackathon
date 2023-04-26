@@ -1,0 +1,59 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "S100A8 and S100A9 are associated with endometrial shedding during menstruation",
+            "author": [
+                "K Arai",
+                "A Kubota",
+                "T Iwasaki",
+                "A Sonoda"
+            ],
+            "pub_year": "2023",
+            "venue": "Medical Molecular \u2026",
+            "abstract": "3 days ago -  , induces the local expression of MMP-3 and serves as a switch to the lysis  phase.  in ESCs have been genetically confirmed in cultured bovine cells [35], we have only"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://link.springer.com/article/10.1007/s00795-023-00355-y",
+        "author_id": [
+            "SYekFRMAAAAJ",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:_uOlnZRrN1QJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dcell%2Blysis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_uOlnZRrN1QJ&ei=BZtHZPbkEO2Ty9YP74OQiAw&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Post-operative Tumor Lysis Syndrome in High-Grade Uterine Sarcoma",
+            "author": [
+                "H Qasim",
+                "HJ Mahadevia",
+                "B Ponvilawan",
+                "H Hamdan"
+            ],
+            "pub_year": "2023",
+            "venue": "Cureus",
+            "abstract": "3 days ago -  It is a constellation of metabolic derangements usually observed in  hematological malignancies due to rapid cell lysis, typically due to chemotherapy or radiotherapy"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.cureus.com/articles/142319-post-operative-tumor-lysis-syndrome-in-high-grade-uterine-sarcoma.pdf",
+        "author_id": [
+            "",
+            "dPei3g4AAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:2xaS13QLdWoJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dcell%2Blysis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=2xaS13QLdWoJ&ei=BZtHZPbkEO2Ty9YP74OQiAw&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.cureus.com/articles/142319-post-operative-tumor-lysis-syndrome-in-high-grade-uterine-sarcoma.pdf"
+    }
+]

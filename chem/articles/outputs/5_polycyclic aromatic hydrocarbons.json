@@ -1,0 +1,60 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Biotoxicity dynamic change and key toxic organics identification of coal chemical wastewater along a novel full-scale treatment process",
+            "author": [
+                "W Ma",
+                "X Zhang",
+                "H Han",
+                "X qing Shi",
+                "Q Kong",
+                "T Yu"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of \u2026",
+            "abstract": "2 days ago -  Phenols were positively correlated with acute biotoxicity, while the nitrogenous  heterocyclic compounds and polycyclic aromatic hydrocarbons were positively correlated"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1001074223001687",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:yjAeW8ahxCkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dpolycyclic%2Baromatic%2Bhydrocarbons%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yjAeW8ahxCkJ&ei=y5pHZLHNJsCQ6rQPneycgAs&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Fe (II) Activated Calcium Peroxide/Peroxymonosulfate: A Practical System for Phenanthrene Degradation and Upholding Ecological pH",
+            "author": [
+                "MA Al Masud",
+                "AVN Kumar",
+                "WS Shin"
+            ],
+            "pub_year": "2023",
+            "venue": "Separation and Purification \u2026",
+            "abstract": "2 days ago -  Groundwater contamination by polycyclic aromatic hydrocarbons (PAHs)  can have adverse effects on both the subsurface environment and human health. This study"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1383586623008109",
+        "author_id": [
+            "5PkBmLEAAAAJ",
+            "",
+            "C0htp-4AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:PcIlao3m4ZUJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dpolycyclic%2Baromatic%2Bhydrocarbons%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=PcIlao3m4ZUJ&ei=y5pHZLHNJsCQ6rQPneycgAs&json=",
+        "num_citations": 0
+    }
+]

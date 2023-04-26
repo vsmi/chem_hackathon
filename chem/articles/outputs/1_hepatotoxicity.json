@@ -1,0 +1,61 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Review of the oral toxicity of cannabidiol (CBD)",
+            "author": [
+                "J Gingrich",
+                "S Choudhuri",
+                "P Cournoyer"
+            ],
+            "pub_year": "2023",
+            "venue": "Food and Chemical \u2026",
+            "abstract": "2 days ago - Abstract Information in the published literature indicates that consumption of  CBD can result in developmental and reproductive toxicity and hepatotoxicity outcomes in"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0278691523002016",
+        "author_id": [
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:hst9Ksn9IycJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dhepatotoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hst9Ksn9IycJ&ei=35lHZN6mKe2Ty9YP74OQiAw&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Congling Yang1, Santosh K. Tiwari1, 2, 3, Lianshan Guo4, Guanghui An1, Heming Zheng1, JianFeng Huang5, Li Jiang6, Zhihao Bai1, 7, Yanqiu Zhu1 and \u2026",
+            "author": [
+                "C Yang",
+                "SK Tiwari",
+                "L Guo",
+                "G An",
+                "H Zheng",
+                "J Huang"
+            ],
+            "pub_year": "2023",
+            "venue": "NA",
+            "abstract": "3 days ago -  DOX (Adriamycin) has shown good efficacy in the treatment of liver cancer, but  it has poor therapeutic activity and side effects on normal tissues, such as hepatotoxicity (28)"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.researchgate.net/profile/Santosh-Tiwari-16/publication/370104783_Zn-Co_metal_organic_frameworks_coated_with_chitosand_and_Au_nanoparticles_for_chemo-photothermal-_targeted_combination_therapy_of_liver_cancer/links/643f6d762eca706c8b6b8306/Zn-Co-metal-organic-frameworks-coated-with-chitosand-and-Au-nanoparticles-for-chemo-photothermal-targeted-combination-therapy-of-liver-cancer.pdf",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:Wg9QwbLOCP8J:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dhepatotoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Wg9QwbLOCP8J&ei=35lHZN6mKe2Ty9YP74OQiAw&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.researchgate.net/profile/Santosh-Tiwari-16/publication/370104783_Zn-Co_metal_organic_frameworks_coated_with_chitosand_and_Au_nanoparticles_for_chemo-photothermal-_targeted_combination_therapy_of_liver_cancer/links/643f6d762eca706c8b6b8306/Zn-Co-metal-organic-frameworks-coated-with-chitosand-and-Au-nanoparticles-for-chemo-photothermal-targeted-combination-therapy-of-liver-cancer.pdf"
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Bioactive Composite Material Based on Polyurethane with Isoniazid",
+            "author": [
+                "D Kuliesh",
+                "N Galatenko",
+                "R Rozhnova"
+            ],
+            "pub_year": "2023",
+            "venue": "American Journal of \u2026",
+            "abstract": "3 days ago -  drug isoniazid, to study the drug release of isoniazid from the  of isoniazid from  the structure of mesh polyurethane, it was shown that a little more than 44% of isoniazid was"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "http://article.ajopst.net/pdf/10.11648.j.ajpst.20230901.11.pdf",
+        "author_id": [
+            "",
+            "1J5gWCEAAAAJ",
+            "VCt-PpoAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:InF5a1wz-ogJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Disoniazid%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=InF5a1wz-ogJ&ei=GZpHZLO7LeCWy9YPzZW9uA8&json=",
+        "num_citations": 0,
+        "eprint_url": "http://article.ajopst.net/pdf/10.11648.j.ajpst.20230901.11.pdf"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Latent tuberculosis infection treatment practices in two large integrated health systems in California, 2009-2018",
+            "author": [
+                "KJ Bruxvoort",
+                "J Skarbinski",
+                "H Fischer"
+            ],
+            "pub_year": "2023",
+            "venue": "Open Forum \u2026",
+            "abstract": "3 days ago -  been daily isoniazid for 6  isoniazid [INH] plus rifapentine for 3 months, daily  INH plus rifampin for 3 months, or daily rifampin for 4 months), with 6 or 9 months of isoniazid"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://academic.oup.com/ofid/advance-article-abstract/doi/10.1093/ofid/ofad219/7135681",
+        "author_id": [
+            "rrQ-jn8AAAAJ",
+            "",
+            "QiYqXS0AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:XweGDZahgOAJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Disoniazid%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=XweGDZahgOAJ&ei=GZpHZLO7LeCWy9YPzZW9uA8&json=",
+        "num_citations": 0,
+        "eprint_url": "https://academic.oup.com/ofid/advance-article-pdf/doi/10.1093/ofid/ofad219/50060181/ofad219.pdf"
+    }
+]

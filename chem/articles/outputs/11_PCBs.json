@@ -1,0 +1,51 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "PCB-waste derived resin as a binary ion exchanger for zinc removal: Isotherm modelling and adsorbent optimization",
+            "author": [
+                "S Zuhara",
+                "G McKay"
+            ],
+            "pub_year": "2023",
+            "venue": "Chemical Papers",
+            "abstract": "2 days ago - Effective removal of heavy metals from wastewaters can enable increased  reuse of treated wastewater and reduce water scarcity worldwide. This paper describes the"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://link.springer.com/article/10.1007/s11696-023-02823-2",
+        "author_id": [
+            "1UiZvIEAAAAJ",
+            "IEcHSh0AAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:espxziYLCiAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPCBs%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=espxziYLCiAJ&ei=pJtHZIa2PMCQ6rQPneycgAs&json=",
+        "num_citations": 0,
+        "eprint_url": "https://link.springer.com/article/10.1007/s11696-023-02823-2"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "The Driver Design of Video Capturing in\ue003 Portable Infrared Detection Testers",
+            "author": [
+                "N LIU",
+                "M ZHOU"
+            ],
+            "pub_year": "NA",
+            "venue": "Computer Engineering & Science",
+            "abstract": "3 days ago - Abstract: As a highly efficient non\ue011 contact way of detecting PCB faults, an  infrared detection tester has been widely applied. However, the huge size of the current system"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "http://manu46.magtech.com.cn/ces/EN/abstract/abstract12777.shtml",
+        "author_id": [
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:ErW3iNj8lKIJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPCBs%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ErW3iNj8lKIJ&ei=pJtHZIa2PMCQ6rQPneycgAs&json=",
+        "num_citations": 0
+    }
+]

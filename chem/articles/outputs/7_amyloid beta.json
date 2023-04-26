@@ -1,0 +1,61 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "\u2026 [100]-oriented Mn0. 988Ni0. 012CoSi/epoxy composites with large and reversible magnetic-field-induced strain by curing under a rotating magnetic field",
+            "author": [
+                "Z Zhang",
+                "K Zhang",
+                "B Chen",
+                "S Pan",
+                "Y Guo"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Materials \u2026",
+            "abstract": "2 days ago - Nowadays, the development of magnetic energy-conversion devices stimulates  the exploration of non-rare-earth materials and their polymer composites with large strain"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S2238785423008785",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:_Cck2LulaqcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Damyloid%2Bbeta%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=_Cck2LulaqcJ&ei=L5tHZIrvDcCQ6rQPneycgAs&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S2238785423008785"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Biomimetic sandwich assay of proteins with a photoelectrochemical sensor using molecularly imprinted targeting and self-ratiometric signaling",
+            "author": [
+                "Y Sun",
+                "G Zhang",
+                "J Liu",
+                "Y Li"
+            ],
+            "pub_year": "2023",
+            "venue": "Sensors and Actuators B: Chemical",
+            "abstract": "2 days ago -  (b) CV curves of the fabricated SPPE at different sweep rates in 0.1 M KCl  solution containing 5 mM [Fe(CN) 6 ] 3\u2212/4\u2212 . (c) Linear fitting curves of the anodic and the"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0925400523005737",
+        "author_id": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:e7pQqbFE-2IJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Damyloid%2Bbeta%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=e7pQqbFE-2IJ&ei=L5tHZIrvDcCQ6rQPneycgAs&json=",
+        "num_citations": 0
+    }
+]

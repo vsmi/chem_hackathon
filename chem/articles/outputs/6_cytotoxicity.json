@@ -1,0 +1,62 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Bi-layered metal-ceramic component for dental implants by spark plasma sintering",
+            "author": [
+                "R Jayasree",
+                "K Raghava",
+                "M Sadhasivam",
+                "PVV Srinivas"
+            ],
+            "pub_year": "2023",
+            "venue": "Materials Letters",
+            "abstract": "2 days ago - The current work reports the fabrication of bilayered single-piece Ti6Al4V-YSZ  dental implants through spark plasma sintering. A tapered die was custom designed to"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0167577X23005888",
+        "author_id": [
+            "zBiDqfkAAAAJ",
+            "",
+            "HBZmk_QAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:VHKr8eAG7qYJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dcytotoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=VHKr8eAG7qYJ&ei=-ppHZJfwIreNy9YP4P6AwAg&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Fe3O4-rhodamine 6G nanoparticles: An iron enhanced pH sensitive multimodal probe for fluorescence and magnetic resonance imaging of tumor cell",
+            "author": [
+                "K Wang",
+                "J Wang",
+                "X Xu",
+                "M Rong",
+                "L Lu",
+                "X Zhao"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Materials \u2026",
+            "abstract": "2 days ago -  assay to detect their cytotoxicity. HeLa cells were used for cytotoxicity evaluation,  considering  that Fe 3 O 4 -Rh6G NPs have low cytotoxicity for biological detection in vivo."
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1005030223003328",
+        "author_id": [
+            "",
+            "",
+            "",
+            "nM7E3KsAAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:deffpIpn7QcJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dcytotoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=deffpIpn7QcJ&ei=-ppHZJfwIreNy9YP4P6AwAg&json=",
+        "num_citations": 0
+    }
+]

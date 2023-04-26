@@ -1,0 +1,56 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Obesity-Induced Thymic Involution and Cancer Risk",
+            "author": [
+                "MK Lagou",
+                "GS Karagiannis"
+            ],
+            "pub_year": "2023",
+            "venue": "Seminars in Cancer Biology",
+            "abstract": "2 days ago -  for orchestrating immunoediting mechanisms and tumor immune surveillance.  In the  the tumor microenvironment and driving the development of primary malignancy."
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1044579X23000664",
+        "author_id": [
+            "",
+            "etxSDNkAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:SAA23W75ubQJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMalignant%2Btumors%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=SAA23W75ubQJ&ei=o5pHZJSkEIr8mgGIlKNI&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S1044579X23000664"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Metachronous papillary thyroid carcinoma and hereditary breast carcinoma with BRCA1 mutation in a Vietnamese woman: A case report",
+            "author": [
+                "TMT Nguyen",
+                "HNH Pham",
+                "TA Do",
+                "KH Pham"
+            ],
+            "pub_year": "2023",
+            "venue": "International Journal of \u2026",
+            "abstract": "2 days ago -  Papillary thyroid carcinoma is the most common type of malignancy in endocrine  tumor. Women with breast cancer have an increased risk of developing thyroid cancer."
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S2210261223003772",
+        "author_id": [
+            "",
+            "",
+            "v8Yzpv8AAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:4VkxYkJRfEgJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DMalignant%2Btumors%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=4VkxYkJRfEgJ&ei=o5pHZJSkEIr8mgGIlKNI&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S2210261223003772"
+    }
+]

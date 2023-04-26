@@ -1,0 +1,54 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "In vitro safety assessment of electrohydrodynamically encapsulated Lactiplantibacillus plantarum CRD7 and Lacticaseibacillus rhamnosus CRD11 for \u2026",
+            "author": [
+                "VV Varada",
+                "D Panneerselvam",
+                "HA Pushpadass"
+            ],
+            "pub_year": "2023",
+            "venue": "Current Research in \u2026",
+            "abstract": "2 days ago -  mucin degradation, hemolysis of blood cells, antimicrobial  rhamnosus CRD11  are safe, non-toxic to human  rhamnosus CRD11 did not show visible hemolysis on blood"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S2665927123000758",
+        "author_id": [
+            "",
+            "",
+            "VT1lG8UAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:QeVx1gFmAT4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBlood%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QeVx1gFmAT4J&ei=Z5pHZObrK7eNy9YP4P6AwAg&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S2665927123000758"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Ozone and Nitrogen Dioxide Pollutants Detection System Based on IoT",
+            "author": [
+                "AK Ibrahim",
+                "ASM Khidhir"
+            ],
+            "pub_year": "2023",
+            "venue": "NA",
+            "abstract": "2 days ago -  Nitrogen dioxide gas is a toxic and harmful gas, it results from the combustion  of fuel  to it in the long term leads to heart, blood vessel and lung diseases. It also has a"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.iasj.net/iasj/download/1c70379b5f281e71",
+        "author_id": [
+            "",
+            "wPXOA9cAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:dQfEkrSca5AJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DBlood%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dQfEkrSca5AJ&ei=Z5pHZObrK7eNy9YP4P6AwAg&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.iasj.net/iasj/download/1c70379b5f281e71"
+    }
+]

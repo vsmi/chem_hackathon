@@ -1,0 +1,63 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Deciphering the Molecular Characteristics of Human Idiopathic Nonobstructive Azoospermia from the Perspective of Germ Cells.",
+            "author": [
+                "Y Chen",
+                "X Liu",
+                "L Zhang",
+                "F Zhu",
+                "L Yan"
+            ],
+            "pub_year": "2023",
+            "venue": "Advanced Science \u2026",
+            "abstract": "3 days ago -  , and gamete generation show obvious abnormalities in iNOA germ cells. This  work  diseases, such as Y-chromosome microdeletions and Klinefelter syndrome. In general,"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://europepmc.org/article/med/37083227",
+        "author_id": [
+            "",
+            "ko4rkXsAAAAJ",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:CCdO5T986hUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dchromosomal%2Babnormalities%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=CCdO5T986hUJ&ei=jJtHZIOyFL3GsQLO1Y6ADA&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Molecular Genetic Analysis of the Autosomal Recessive Non-Syndromic Inherited Retinitis Pigmentosa",
+            "author": [
+                "F Habib",
+                "M Yasin",
+                "A Nasir",
+                "A Hussain",
+                "C Ndubuisi"
+            ],
+            "pub_year": "2023",
+            "venue": "Cureus",
+            "abstract": "3 days ago -  Only one peak on chromosome 1 was found in the RP01  on chromosome 8  with multipoint LOD values of 1.80 were found to be at risk for carrying the genetic abnormality"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.cureus.com/articles/141013-molecular-genetic-analysis-of-the-autosomal-recessive-non-syndromic-inherited-retinitis-pigmentosa.pdf",
+        "author_id": [
+            "",
+            "",
+            "",
+            "yJd5ukUAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:eAJ9-t6eaSMJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dchromosomal%2Babnormalities%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=eAJ9-t6eaSMJ&ei=jJtHZIOyFL3GsQLO1Y6ADA&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.cureus.com/articles/141013-molecular-genetic-analysis-of-the-autosomal-recessive-non-syndromic-inherited-retinitis-pigmentosa.pdf"
+    }
+]

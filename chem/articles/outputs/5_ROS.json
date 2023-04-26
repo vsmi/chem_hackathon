@@ -1,0 +1,65 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "An electrochemiluminescence immunosensor based on signal magnification of luminol using OER-activated NiFe2O4@ C@ CeO2/Au as effective co-reaction \u2026",
+            "author": [
+                "R Zhou",
+                "T Li",
+                "T Chen",
+                "Y Tang",
+                "Y Chen",
+                "X Huang"
+            ],
+            "pub_year": "2023",
+            "venue": "Talanta",
+            "abstract": "2 days ago -  of reactive oxygen species (ROS), thus increasing the ECL intensity of luminol  in a neutral medium without other co-reactants such as H 2 O 2 . Because of these benefits,"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0039914023003314",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:s5Jan9hH93EJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DROS%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=s5Jan9hH93EJ&ei=tZpHZPvqAbeNy9YP4P6AwAg&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Anticoagulation in type 2 myocardial infarctions: Lessons learned from the rivaroxaban in type 2 myocardial infarctions feasibility trial",
+            "author": [
+                "P Gouda",
+                "R Kay",
+                "A Gupta",
+                "T Yuen",
+                "M Elharram"
+            ],
+            "pub_year": "2023",
+            "venue": "Contemporary Clinical \u2026",
+            "abstract": "2 days ago - Background Type 2 myocardial infarction (T2MI) occurs when myocardial  oxygen demand exceeds myocardial oxygen supply. T2MIs occur more frequently and have"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S2451865423000893",
+        "author_id": [
+            "Fp6sZx8AAAAJ",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:-XComZtA74AJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DROS%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-XComZtA74AJ&ei=tZpHZPvqAbeNy9YP4P6AwAg&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S2451865423000893"
+    }
+]

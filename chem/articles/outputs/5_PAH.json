@@ -1,0 +1,66 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Biotoxicity dynamic change and key toxic organics identification of coal chemical wastewater along a novel full-scale treatment process",
+            "author": [
+                "W Ma",
+                "X Zhang",
+                "H Han",
+                "X qing Shi",
+                "Q Kong",
+                "T Yu"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of \u2026",
+            "abstract": "2 days ago -  Phenols were positively correlated with acute biotoxicity, while the nitrogenous  heterocyclic compounds and polycyclic aromatic hydrocarbons were positively correlated"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1001074223001687",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:yjAeW8ahxCkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPAH%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yjAeW8ahxCkJ&ei=qppHZI_-FLeNy9YP4P6AwAg&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "A modified Fangji Huangqi decoction ameliorates pulmonary artery hypertension via phosphatidylinositide 3-kinases/protein kinase B-mediated regulation of \u2026",
+            "author": [
+                "Z Xue",
+                "M Zhou",
+                "Y Liu",
+                "H Qin",
+                "Y Li",
+                "Y Zhu"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of \u2026",
+            "abstract": "2 days ago -  , which arouses an enhanced interest in PAH disease therapy. Modified Fangji  Huangqi  of PAH. However, the pharmacological roles and mechanisms of MFJHQ on PAH"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0378874123004129",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:kHGvxAtT-_wJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPAH%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kHGvxAtT-_wJ&ei=qppHZI_-FLeNy9YP4P6AwAg&json=",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Absence of phototoxicity/photoirritation potential of bergamottin determined in vitro using OECD TG 432",
+            "author": [
+                "M Cluzel",
+                "G Hais",
+                "A Irizar",
+                "V Lenouvel",
+                "JF Nash"
+            ],
+            "pub_year": "2022",
+            "venue": "Regulatory Toxicology \u2026",
+            "abstract": "184 days ago - The phototoxic potential of a number of furocoumarins is well established. On  the other hand, studies have shown that bergamottin, a furocoumarin containing a bulky,"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0273230022001684",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:bVJ_lnBD8v8J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dphotoirritation%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=bVJ_lnBD8v8J&ei=RptHZOWWDYr8mgGIlKNI&json=",
+        "num_citations": 1,
+        "citedby_url": "/scholar?cites=18442877574875927149&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:bVJ_lnBD8v8J:scholar.google.com/&scioq=photoirritation&hl=en&scisbd=1&as_sdt=0,33"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "A REVIEW ON: FORMULATION OF LIQUORICE HERBAL FACE PACK",
+            "author": [
+                "N Chavan Ankita"
+            ],
+            "pub_year": "2022",
+            "venue": "NA",
+            "abstract": "197 days ago - The purpose of the review is to develop and test a cosmetic herbal face pack  for all skin types utilising natural components in various ratios. 10 distinct formulations"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/95fef439b5a53735c5fca215f86c3c7b.pdf",
+        "author_id": [
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:XC9b3Gm9bfUJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dphotoirritation%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=XC9b3Gm9bfUJ&ei=RptHZOWWDYr8mgGIlKNI&json=",
+        "num_citations": 0,
+        "url_related_articles": "/scholar?q=related:XC9b3Gm9bfUJ:scholar.google.com/&scioq=photoirritation&hl=en&scisbd=1&as_sdt=0,33",
+        "eprint_url": "https://wjpr.s3.ap-south-1.amazonaws.com/article_issue/95fef439b5a53735c5fca215f86c3c7b.pdf"
+    }
+]

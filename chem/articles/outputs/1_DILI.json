@@ -1,0 +1,50 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Investigating the correlation between COVID-19 and the progression of chronic liver disease",
+            "author": [
+                "CA Philips",
+                "D Madhu",
+                "P Augustine"
+            ],
+            "pub_year": "2023",
+            "venue": "Expert Review of \u2026",
+            "abstract": "2 days ago - Introduction The novel coronavirus disease 2019 has thrown light on various  heterogeneous afflictions of newly emerging viruses on the human body. Early reports"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.tandfonline.com/doi/abs/10.1080/17474124.2023.2206564",
+        "author_id": [
+            "Gz7g05QAAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:S0hsGJMXx7AJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDILI%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=S0hsGJMXx7AJ&ei=7plHZKOpJL3GsQLO1Y6ADA&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Bask\u0131 Resim Sanat\u0131nda Politik bir Dil: K\u00e4the Kollwitz",
+            "author": [
+                "FDS \u015eenocak"
+            ],
+            "pub_year": "2023",
+            "venue": "NA",
+            "abstract": "3 days ago -  Annelik ve kad\u0131nl\u0131k kavramlar\u0131 \u00fczerinden politik bir dil olu\u015fturmu\u015f ve bu dili  sanat\u00e7\u0131  bask\u0131 teknikleri \u00fczerinden olu\u015fturdu\u011fu sanat dili \u00fczerine ara\u015ft\u0131rma yap\u0131lm\u0131\u015ft\u0131r. \u00dc\u00e7\u00fcnc\u00fc"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://search.proquest.com/openview/2701de0646bd9c25e8e7fdcefa00c884/1?pq-origsite=gscholar&cbl=2026366&diss=y",
+        "author_id": [
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:I9ooPnu_MmMJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DDILI%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=I9ooPnu_MmMJ&ei=7plHZKOpJL3GsQLO1Y6ADA&json=",
+        "num_citations": 0
+    }
+]

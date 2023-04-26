@@ -1,0 +1,63 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Synthesis and Spectroscopic Properties of Selenophene[3, 2-b]-Fused BODIPYs",
+            "author": [
+                "L Di",
+                "L Gai",
+                "C Wen",
+                "S Hu",
+                "J Feng",
+                "X Sui"
+            ],
+            "pub_year": "2023",
+            "venue": "The Journal of Organic \u2026",
+            "abstract": "4 days ago -  Furthermore, selenophene-fused BODIPY exhibited significant phototoxicity  with negligible dark cytotoxicity, based on the fluorescence imaging of the reactive oxygen"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acs.joc.2c02604",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:sxzfvdWCgmwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPhototoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=sxzfvdWCgmwJ&ei=QZtHZNvmC66I6rQPpqij-AY&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Image-Guided Enhanced PDT/PTT Combination Therapy Using Brominated Hemicyanine-Loaded Folate Receptor-Targeting Ag2S Quantum Dots",
+            "author": [
+                "E Celikbas",
+                "A Saymaz",
+                "H Gunduz",
+                "I Koc"
+            ],
+            "pub_year": "2023",
+            "venue": "Bioconjugate \u2026",
+            "abstract": "4 days ago -  -GSH QDs) to provide enhanced phototoxicity via a photodynamic and mild  photothermal  Enhanced phototoxicity on HeLa cells was observed with AS-GSH-FA/Hemi-Br"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://pubs.acs.org/doi/abs/10.1021/acs.bioconjchem.3c00096",
+        "author_id": [
+            "",
+            "",
+            "HcNXhj8AAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:sZtSCP8spsUJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DPhototoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=sZtSCP8spsUJ&ei=QZtHZNvmC66I6rQPpqij-AY&json=",
+        "num_citations": 0,
+        "eprint_url": "https://pubs.acs.org/doi/full/10.1021/acs.bioconjchem.3c00096"
+    }
+]

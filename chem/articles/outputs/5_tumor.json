@@ -1,0 +1,57 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Fluid Mechanics in Circulating Tumour Cells: Role in Metastasis and Treatment Strategies",
+            "author": [
+                "S Rajput",
+                "PK Sharma",
+                "R Malviya"
+            ],
+            "pub_year": "2023",
+            "venue": "Medicine in Drug Discovery",
+            "abstract": "2 days ago -  and nutrients to tumours. At this stage, tumours seldom reach 1 mm3 in size.  Based on oxygen diffusion limitations in nearby arteries, the diameter of a vascular tumours is"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S2590098623000088",
+        "author_id": [
+            "",
+            "S3VXzJgAAAAJ",
+            "yMDGY2oAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:W3GX1LcvdnkJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dtumor%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=W3GX1LcvdnkJ&ei=mppHZKOhOYuGmgHE44ewAg&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S2590098623000088"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Deep Learning Approaches for Glioblastoma Prognosis in Resource-Limited Settings: A Study using Basic Patient Demographic, Clinical, and Surgical Inputs",
+            "author": [
+                "M Ghanem",
+                "AK Ghaith",
+                "C Zamanian",
+                "A Bon-Nieves"
+            ],
+            "pub_year": "2023",
+            "venue": "World Neurosurgery",
+            "abstract": "2 days ago - Introduction Glioblastoma (GBM) is the most common brain tumor in the United  States, with an annual incidence rate of 3.21 per 100,000. It is the most aggressive type of"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1878875023005570",
+        "author_id": [
+            "VyR7mXEAAAAJ",
+            "wMwHZ2UAAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:04HLIVaqZOkJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dtumor%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=04HLIVaqZOkJ&ei=mppHZKOhOYuGmgHE44ewAg&json=",
+        "num_citations": 0
+    }
+]

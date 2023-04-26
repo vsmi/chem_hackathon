@@ -1,0 +1,60 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Recent advances in g-C3N4/Metal Organic Frameworks heterojunctions for high-performance photocatalytic environmental remediation and energy production",
+            "author": [
+                "SK Sharma",
+                "A Kumar",
+                "G Sharma",
+                "T Wang"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Molecular \u2026",
+            "abstract": "2 days ago -  heavy metals, as well as for energy production applications such as hydrogen  evolution and CO 2 reduction. Furthermore, we provide an overview of the latest theoretical"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0167732223006931",
+        "author_id": [
+            "0sIqMNoAAAAJ",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:MjDyrG-HczgJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dheavy%2Bmetals%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=MjDyrG-HczgJ&ei=65pHZPiAPP6G6rQP1tWksAc&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Risk assessment on dietary exposure to aflatoxin B1, heavy metals and phthalates in peanuts, a case study of Shandong province, China",
+            "author": [
+                "Y Dong",
+                "L Wang",
+                "D Cai",
+                "C Zhang",
+                "S Zhao"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Food Composition \u2026",
+            "abstract": "2 days ago -  The peanuts were widely polluted by heavy metals and phthalates.  Estimated  target hazard quotient (THQ) values and HI values of heavy metals and phthalates through"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0889157523002338",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:yGTq3a8FVBkJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dheavy%2Bmetals%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yGTq3a8FVBkJ&ei=65pHZPiAPP6G6rQP1tWksAc&json=",
+        "num_citations": 0
+    }
+]

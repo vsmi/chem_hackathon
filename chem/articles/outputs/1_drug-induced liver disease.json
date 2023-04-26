@@ -1,0 +1,63 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Evaluation of diagnostic and prognostic candidate biomarkers in drug-induced liver injury vs. other forms of acute liver damage",
+            "author": [
+                "A Cueto-S\u00e1nchez",
+                "H Niu",
+                "I Alvarez-Alvarez"
+            ],
+            "pub_year": "2023",
+            "venue": "NA",
+            "abstract": "6 days ago -  of idiosyncratic drug-induced liver injury (DILI) currently rely on standard liver  tests,  The diagnosis is made by excluding other liver diseases and identifying a compatible"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.researchgate.net/profile/Ma-Lucena/publication/369531341_Evaluation_of_diagnostic_and_prognostic_candidate_biomarkers_in_drug-induced_liver_injury_versus_other_forms_of_acute_liver_damage/links/643e4eb12eca706c8b684549/Evaluation-of-diagnostic-and-prognostic-candidate-biomarkers-in-drug-induced-liver-injury-vs-other-forms-of-acute-liver-damage.pdf",
+        "author_id": [
+            "",
+            "Arp_gHAAAAAJ",
+            "CqKHXDwAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:ErlqwxkBqJ4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Ddrug-induced%2Bliver%2Bdisease%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ErlqwxkBqJ4J&ei=AJpHZIX9DP6G6rQP1tWksAc&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.researchgate.net/profile/Ma-Lucena/publication/369531341_Evaluation_of_diagnostic_and_prognostic_candidate_biomarkers_in_drug-induced_liver_injury_versus_other_forms_of_acute_liver_damage/links/643e4eb12eca706c8b684549/Evaluation-of-diagnostic-and-prognostic-candidate-biomarkers-in-drug-induced-liver-injury-vs-other-forms-of-acute-liver-damage.pdf"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Progress of research on the role of active ingredients of Citri Reticulatae Pericarpium in liver injury",
+            "author": [
+                "S Gao",
+                "X Chen",
+                "Z Yu",
+                "R Du",
+                "B Chen",
+                "Y Wang",
+                "X Cai"
+            ],
+            "pub_year": "2023",
+            "venue": "Phytomedicine",
+            "abstract": "6 days ago -  , fatty liver disease, drug-induced liver injury, alcoholic liver injury, and  severe end-stage liver diseases  drug-induced liver injury, alcoholic liver injury, and non-alcoholic"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0944711323001976",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:HcSgCyExc-AJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Ddrug-induced%2Bliver%2Bdisease%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=HcSgCyExc-AJ&ei=AJpHZIX9DP6G6rQP1tWksAc&json=",
+        "num_citations": 0
+    }
+]

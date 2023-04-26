@@ -1,0 +1,61 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Paraquat-induced neurogenesis abnormalities via Drp1-mediated mitochondrial fission",
+            "author": [
+                "B Zhang",
+                "Y Zhang",
+                "Z Zuo",
+                "G Xiong",
+                "H Luo"
+            ],
+            "pub_year": "2023",
+            "venue": "Ecotoxicology and \u2026",
+            "abstract": "2 days ago -  In this study, we hypothesized that mitochondrial dynamics is involved in the  neurotoxicity induced by PQ. We observed the adverse effects of PQ exposure on proliferation"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0147651323004438",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:JYwhD-_ULdsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNeurotoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JYwhD-_ULdsJ&ei=DptHZMfRO66I6rQPpqij-AY&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S0147651323004438"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Framework to leverage physical therapists for the assessment and treatment of chemotherapy-induced peripheral neurotoxicity (CIPN)",
+            "author": [
+                "S Stoller",
+                "S Capozza",
+                "P Alberti",
+                "M Lustberg"
+            ],
+            "pub_year": "2023",
+            "venue": "Supportive Care in \u2026",
+            "abstract": "2 days ago -  % of patients experiencing chronic neurotoxicity symptoms beyond 6 months  post-treatment [3]. CIPN is a predominantly sensory neurotoxicity that may be accompanied"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://link.springer.com/article/10.1007/s00520-023-07734-2",
+        "author_id": [
+            "",
+            "",
+            "UCoILMwAAAAJ",
+            "Mrc4dZUAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:BZMRE2nN_wMJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DNeurotoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=BZMRE2nN_wMJ&ei=DptHZMfRO66I6rQPpqij-AY&json=",
+        "num_citations": 0
+    }
+]

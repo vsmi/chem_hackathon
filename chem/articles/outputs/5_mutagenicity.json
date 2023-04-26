@@ -1,0 +1,55 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Announcing the UKEMS Next Generation Sequencing special interest group (NGS SIG)",
+            "author": [
+                "A Lynch",
+                "D Kidd",
+                "A Ashford"
+            ],
+            "pub_year": "2023",
+            "venue": "Mutagenesis",
+            "abstract": "4 days ago -  Ongoing research efforts are underway to evaluate whether ecNGS can provide  an alternative and/or complementary approach to current mutagenicity and carcinogenicity"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://academic.oup.com/mutage/advance-article-abstract/doi/10.1093/mutage/gead009/7134124",
+        "author_id": [
+            "cgmdZRsAAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:G4QbscW5MUIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dmutagenicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=G4QbscW5MUIJ&ei=hppHZKGSDsCQ6rQPneycgAs&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Changes in metabolic landscapes shape divergent but distinct mutational signatures and cytotoxic consequences of redox stress",
+            "author": [
+                "NP Degtyareva",
+                "VC Placentra",
+                "SA Gabel"
+            ],
+            "pub_year": "2023",
+            "venue": "Nucleic Acids \u2026",
+            "abstract": "5 days ago -  In agreement with our findings of very low mutagenicity of PQ in wild type  cells, exposure of wild type cells to PQ changed the metabolic profile of the cells very little (Figure"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://academic.oup.com/nar/advance-article-abstract/doi/10.1093/nar/gkad305/7132341",
+        "author_id": [
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:OtE8Daj-btAJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dmutagenicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OtE8Daj-btAJ&ei=hppHZKGSDsCQ6rQPneycgAs&json=",
+        "num_citations": 0,
+        "eprint_url": "https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkad305/7132341"
+    }
+]

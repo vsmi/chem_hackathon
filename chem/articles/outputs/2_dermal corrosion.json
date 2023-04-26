@@ -1,0 +1,56 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Fabrication, characterization, antimicrobial, toxicity and potential drug-delivery studies of PEGylated Sesamum indicum oil based nanoemulsion system",
+            "author": [
+                "A Bamisaye",
+                "CO Eromosele",
+                "EO Dare"
+            ],
+            "pub_year": "2023",
+            "venue": "\u2026 Journal of Basic \u2026",
+            "abstract": "42 days ago -  The in-vitro and dermal toxicological assessment were carried out using  adult Wistar  No skin irritation was observed after 14 days of skin corrosion assessment. No"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://bjbas.springeropen.com/articles/10.1186/s43088-023-00371-y",
+        "author_id": [
+            "No1eXNsAAAAJ",
+            "",
+            "H2JCKhYAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:w61rQkI7zcAJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Ddermal%2Bcorrosion%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=w61rQkI7zcAJ&ei=R5pHZNm-GL3GsQLO1Y6ADA&json=",
+        "num_citations": 0,
+        "eprint_url": "https://bjbas.springeropen.com/articles/10.1186/s43088-023-00371-y"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "AN INTRESTING CASE OF CHEMICAL PNEUMONITIS DUE TO ACCIDENTAL INHALATION OF HF ACID FUMES",
+            "author": [
+                "P Diggikar",
+                "M Mayank",
+                "NSS Saranya"
+            ],
+            "pub_year": "NA",
+            "venue": "\u2026 Journal of Molecular & Clinical Medicine",
+            "abstract": "49 days ago -  is an extremely powerful and corrosive inorganic acid. It  of hydrofluoric acid  presents with dermal burns, eye injury an extremely powerful and corrosive inorganic acid and"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://ejmcm.com/article_21531_2f32dd128759c54962714264c23b1875.pdf",
+        "author_id": [
+            "XlnRXJsAAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:8JMJ0szQVicJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Ddermal%2Bcorrosion%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=8JMJ0szQVicJ&ei=R5pHZNm-GL3GsQLO1Y6ADA&json=",
+        "num_citations": 0,
+        "eprint_url": "https://ejmcm.com/article_21531_2f32dd128759c54962714264c23b1875.pdf"
+    }
+]

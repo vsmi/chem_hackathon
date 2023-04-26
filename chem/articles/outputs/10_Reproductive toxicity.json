@@ -1,0 +1,56 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Review of the oral toxicity of cannabidiol (CBD)",
+            "author": [
+                "J Gingrich",
+                "S Choudhuri",
+                "P Cournoyer"
+            ],
+            "pub_year": "2023",
+            "venue": "Food and Chemical \u2026",
+            "abstract": "2 days ago -  reproductive toxicity and hepatotoxicity outcomes in animal models. The trend  of CBD-induced male reproductive toxicity  The mechanisms of CBD-mediated toxicity are"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0278691523002016",
+        "author_id": [
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:hst9Ksn9IycJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DReproductive%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=hst9Ksn9IycJ&ei=UptHZI-CAe2Ty9YP74OQiAw&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Di-butyl Phthalate Disrupts Muscle, Motor and Sensory Neuron Development in Embryonic Zebrafish",
+            "author": [
+                "JP Giacalone",
+                "M Fumo",
+                "E Paquette",
+                "N Roy"
+            ],
+            "pub_year": "2023",
+            "venue": "NA",
+            "abstract": "3 days ago -  reproduction are well noted. However, studies on the developmental effects of  di-butyl phthalate (DBP) are limited. Here we investigate the developmental toxicity  is toxic"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://digitalcommons.sacredheart.edu/acadfest/2023/all/90/",
+        "author_id": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:yCubbpsDSm4J:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DReproductive%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=yCubbpsDSm4J&ei=UptHZI-CAe2Ty9YP74OQiAw&json=",
+        "num_citations": 0
+    }
+]

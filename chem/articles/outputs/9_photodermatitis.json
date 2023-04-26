@@ -1,0 +1,57 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Occupational Contact Dermatitis and Photodermatosis in the Agricultural Environment",
+            "author": [
+                "P P\u00e9rez-Feal",
+                "V Fern\u00e1ndez-Redondo"
+            ],
+            "pub_year": "2023",
+            "venue": "Handbook of Occupational \u2026",
+            "abstract": "32 days ago -  In addition, it can cause airborne dermatitis that simulates photodermatitis,  especially ragweed, for which certain environmental conditions such as arid and hot climates"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://link.springer.com/chapter/10.1007/978-3-031-22727-1_12",
+        "author_id": [
+            "PYsB5HAAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:rE8PSBqb9GwJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dphotodermatitis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=rE8PSBqb9GwJ&ei=SZtHZJisGreNy9YP4P6AwAg&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Palatability of Palatability of Psolarea spp. Accessions Offered as Micro-Swards spp. Accessions Offered as Micro-Swards to Dairy Sheep",
+            "author": [
+                "M Decandia",
+                "M Acciaro",
+                "M Sitzia",
+                "A Cabiddu",
+                "C Manca"
+            ],
+            "venue": "NA",
+            "pub_year": "NA",
+            "abstract": "36 days ago -  These substances could be harmful to animals, being responsible for contact  photodermatitis, in addition to possibly limiting forage intake. Nevertheless there are some"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.academia.edu/download/94455962/viewcontent.pdf",
+        "author_id": [
+            "oMNAGFYAAAAJ",
+            "",
+            "",
+            "9_mVa38AAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:9_m9eejjkikJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dphotodermatitis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=9_m9eejjkikJ&ei=SZtHZJisGreNy9YP4P6AwAg&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.academia.edu/download/94455962/viewcontent.pdf"
+    }
+]

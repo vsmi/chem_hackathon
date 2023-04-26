@@ -1,0 +1,28 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "A form of hepatogenous copper poisoning in fattening cattle associated with the ingestion of mouldy straw",
+            "author": [
+                "A Otter",
+                "A Schock",
+                "J Payne"
+            ],
+            "pub_year": "2023",
+            "venue": "Veterinary Record Case Reports",
+            "abstract": "42 days ago -  was indicative of copper poisoning in the two animals.  This case report is  an example of copper poisoning  , and resembles hepatogenous copper toxicity associated"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://bvajournals.onlinelibrary.wiley.com/doi/abs/10.1002/vrc2.592",
+        "author_id": [
+            "",
+            "q0uJezgAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:WJ2PuK4mCOIJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dhepatogenous%2Bpoisoning%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=WJ2PuK4mCOIJ&ei=CppHZP6PBKiI6rQPlL-HGA&json=",
+        "num_citations": 0
+    }
+]

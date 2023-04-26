@@ -1,0 +1,66 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Theoretical study of local S coordination environment on Fe single atoms for peroxymonosulfate-based advanced oxidation processes",
+            "author": [
+                "X Wang",
+                "C Zhang",
+                "D Li",
+                "Y Sun",
+                "J Ren",
+                "J Sun"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Hazardous \u2026",
+            "abstract": "2 days ago -  , suggesting the formation of hydroxyl radicals (\u2022OH) and sulfate ion (SO4 2\u2013  ). Therefore, in Fe-S X -C 4-X /*PMS system, the PMS tend to generate hydroxyl radicals (\u2022OH)"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0304389423007525",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:HMGJe6M6HagJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dhydroxyl%2Bradicals%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=HMGJe6M6HagJ&ei=wJpHZPiLMe2Ty9YP74OQiAw&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Transferrin-Targeted Iridium Nanoagglomerates with Multi-Enzyme Activities for Cerebral Ischemia-Reperfusion Injury Therapy",
+            "author": [
+                "W Du",
+                "J Wang",
+                "L Zhou",
+                "J Zhou",
+                "L Feng",
+                "C Dou"
+            ],
+            "pub_year": "2023",
+            "venue": "Acta Biomaterialia",
+            "abstract": "2 days ago -  Containing some small-size IrO 2 aggregates, these NAs possess intrinsic  hydroxyl radicals (\u2022OH)-scavenging ability and multifarious enzyme activities, such as catalase ("
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1742706123002179",
+        "author_id": [
+            "Ke0rrDgAAAAJ",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:TO6x_72T0o4J:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dhydroxyl%2Bradicals%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=TO6x_72T0o4J&ei=wJpHZPiLMe2Ty9YP74OQiAw&json=",
+        "num_citations": 0
+    }
+]

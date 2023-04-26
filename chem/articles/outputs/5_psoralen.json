@@ -1,0 +1,57 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "A Validated HPLC Method for the Simultaneous Quantification of Curcumin, Silybin, and Psoralen: Application to Phytopharmaceuticals",
+            "author": [
+                "B Shaik",
+                "A Eerla",
+                "S Palatheeya",
+                "PR Veerareddy"
+            ],
+            "pub_year": "2023",
+            "venue": "Revista Brasileira de \u2026",
+            "abstract": "12 days ago - The present study was aimed to develop a simple, sensitive, and precise  reversed-phase HPLC method for the simultaneous separation and quantification of curcumin,"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://link.springer.com/article/10.1007/s43450-023-00392-9",
+        "author_id": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:xQEAXnqfS68J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dpsoralen%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=xQEAXnqfS68J&ei=3JpHZPX5FZiUy9YPpeupqAk&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Traditional phytoremedies for the treatment of vitiligo in Udhampur, J&K, India",
+            "author": [
+                "K Kumar",
+                "RK Manhas",
+                "SP Singh"
+            ],
+            "pub_year": "2023",
+            "venue": "Indian Journal of \u2026",
+            "abstract": "13 days ago -  source of psoralen used  psoralen is the main component present in most of  these species, appropriate studies may further be carried out to verify the presence of psoralen"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://or.niscpr.res.in/index.php/IJTK/article/view/679",
+        "author_id": [
+            "",
+            "tTLNaNsAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:dR6tbE6DWRgJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dpsoralen%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=dR6tbE6DWRgJ&ei=3JpHZPX5FZiUy9YPpeupqAk&json=",
+        "num_citations": 0,
+        "eprint_url": "https://or.niscpr.res.in/index.php/IJTK/article/download/679/63"
+    }
+]

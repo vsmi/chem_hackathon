@@ -1,0 +1,31 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Efficacy, safety, tolerability, and pharmacokinetics of MMV390048 in acute uncomplicated malaria",
+            "author": [
+                "R Mohammed",
+                "MS Asres",
+                "EK Gudina"
+            ],
+            "pub_year": "2022",
+            "venue": "The American Journal \u2026",
+            "abstract": "140 days ago -  The study was not completed for operational reasons and emerging teratotoxicity  data. For the eight adult male patients enrolled, adequate clinical and parasitological"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.researchgate.net/profile/Mezgebu-Silamsaw-Asres/publication/366024066_Efficacy_Safety_Tolerability_and_Pharmacokinetics_of_MMV390048_in_Acute_Uncomplicated_Malaria/links/639c91da40358f78ebf54808/Efficacy-Safety-Tolerability-and-Pharmacokinetics-of-MMV390048-in-Acute-Uncomplicated-Malaria.pdf",
+        "author_id": [
+            "",
+            "mN5v0gQAAAAJ",
+            "HwBL4YoAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:JvKqeeK_mioJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dteratotoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=JvKqeeK_mioJ&ei=YptHZNXDH4r8mgGIlKNI&json=",
+        "num_citations": 1,
+        "citedby_url": "/scholar?cites=3069977075431174694&as_sdt=5,33&sciodt=0,33&hl=en",
+        "url_related_articles": "/scholar?q=related:JvKqeeK_mioJ:scholar.google.com/&scioq=teratotoxicity&hl=en&scisbd=1&as_sdt=0,33",
+        "eprint_url": "https://www.researchgate.net/profile/Mezgebu-Silamsaw-Asres/publication/366024066_Efficacy_Safety_Tolerability_and_Pharmacokinetics_of_MMV390048_in_Acute_Uncomplicated_Malaria/links/639c91da40358f78ebf54808/Efficacy-Safety-Tolerability-and-Pharmacokinetics-of-MMV390048-in-Acute-Uncomplicated-Malaria.pdf"
+    }
+]

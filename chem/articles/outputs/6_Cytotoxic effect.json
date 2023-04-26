@@ -1,0 +1,60 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Fe3O4-rhodamine 6G nanoparticles: An iron enhanced pH sensitive multimodal probe for fluorescence and magnetic resonance imaging of tumor cell",
+            "author": [
+                "K Wang",
+                "J Wang",
+                "X Xu",
+                "M Rong",
+                "L Lu",
+                "X Zhao"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Materials \u2026",
+            "abstract": "2 days ago -  have a strong MRI T 2 contrast effect. According to the performance in fluorescence   to detect their cytotoxicity. HeLa cells were used for cytotoxicity evaluation, considering"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S1005030223003328",
+        "author_id": [
+            "",
+            "",
+            "",
+            "nM7E3KsAAAAJ",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:deffpIpn7QcJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCytotoxic%2Beffect%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=deffpIpn7QcJ&ei=9ZpHZMzKD73GsQLO1Y6ADA&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Design, Synthesis and Molecular Docking of 1, 2, 4-Triazole Schiff Base Hybrids as Tubulin, EGFR Inhibitors and Apoptosis-Inducers",
+            "author": [
+                "MS Mohamed",
+                "NA Ibrahim",
+                "AM Gouda"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of Molecular \u2026",
+            "abstract": "2 days ago -  The inhibitory effects of compounds 4d, 4e, and 4k against EGFR kinase and  tubulin were further investigated as they showed significant cytotoxic activity. Compound 4d"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0022286023007172",
+        "author_id": [
+            "OmJ-g8IAAAAJ",
+            "0wRXBkUAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:jk4Lv46WWo4J:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3DCytotoxic%2Beffect%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=jk4Lv46WWo4J&ei=9ZpHZMzKD73GsQLO1Y6ADA&json=",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "In vitro safety assessment of electrohydrodynamically encapsulated Lactiplantibacillus plantarum CRD7 and Lacticaseibacillus rhamnosus CRD11 for \u2026",
+            "author": [
+                "VV Varada",
+                "D Panneerselvam",
+                "HA Pushpadass"
+            ],
+            "pub_year": "2023",
+            "venue": "Current Research in \u2026",
+            "abstract": "2 days ago -  Hemolysis is a virulence factor demonstrated by pathogenic bacteria (eg,   visible hemolysis on blood agar plates in this study, whereas S. aureus ATCC9144 (\u03b2 hemolysis)"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S2665927123000758",
+        "author_id": [
+            "",
+            "",
+            "VT1lG8UAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:QeVx1gFmAT4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dhemolysis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=QeVx1gFmAT4J&ei=OptHZNTyOMCQ6rQPneycgAs&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.sciencedirect.com/science/article/pii/S2665927123000758"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Effect of Eculizumab on Iron Metabolism in Transfusion-independent Patients With Paroxysmal Nocturnal Hemoglobinuria",
+            "author": [
+                "CCM Schaap",
+                "SEM Schols",
+                "FWMB Preijers"
+            ],
+            "pub_year": "2023",
+            "venue": "\u2026",
+            "abstract": "3 days ago -  Based on these results, we hypothesize that in patients on eculizumab with  ongoing extravascular hemolysis, both a decline of renal iron loss and erythropoiesis-mediated"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10118333/",
+        "author_id": [
+            "",
+            "4Od-v7EAAAAJ",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:1tdmhE-rxTkJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dhemolysis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=1tdmhE-rxTkJ&ei=OptHZNTyOMCQ6rQPneycgAs&json=",
+        "num_citations": 0
+    }
+]

@@ -1,0 +1,55 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Exercise and Doxorubicin Modify Markers of Iron Overload and Cardiolipin Deficiency in Cardiac Mitochondria",
+            "author": [
+                "RN Montalvo",
+                "FP Boeno",
+                "IM Dowllah"
+            ],
+            "pub_year": "2023",
+            "venue": "International Journal of \u2026",
+            "abstract": "2 days ago -  Although it is clear that exercise confers mitochondrial protection, it is currently  unknown if exercise training mitigates DOX cardiac mitochondrial toxicity by promoting"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.mdpi.com/1422-0067/24/9/7689",
+        "author_id": [
+            "NMh0g9oAAAAJ",
+            "FDcMII0AAAAJ",
+            "0nQQ6zAAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:kayc2sGxZSsJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dcardiovascular%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kayc2sGxZSsJ&ei=c5pHZNGpHouGmgHE44ewAg&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.mdpi.com/1422-0067/24/9/7689"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Association between RCT methodology and disease indication with mineralocorticoid-related toxicity for patients receiving abiraterone acetate for advanced prostate \u2026",
+            "author": [
+                "ME Hall",
+                "WJ Padgett",
+                "Z Klaassen"
+            ],
+            "pub_year": "NA",
+            "venue": "Clinical \u2026",
+            "abstract": "3 days ago -  However, to our knowledge, there is no known association between the  duration of treatment and the likelihood of cardiac toxicity. To explore this further would require"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.clinical-genitourinary-cancer.com/article/S1558-7673(23)00093-9/abstract",
+        "author_id": [
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:15FuQX6apeEJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dcardiovascular%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=15FuQX6apeEJ&ei=c5pHZNGpHouGmgHE44ewAg&json=",
+        "num_citations": 0
+    }
+]

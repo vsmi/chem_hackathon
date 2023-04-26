@@ -1,0 +1,57 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Clonally expanded PD-1-expressing T cells are enriched in synovial fluid of juvenile idiopathic arthritis patients",
+            "author": [
+                "A Vanni",
+                "A Mazzoni",
+                "R Semeraro"
+            ],
+            "pub_year": "NA",
+            "venue": "European journal of \u2026",
+            "abstract": "2 days ago -  via signals, known as immune-checkpoints (IC). Delivering an inhibitory signal  or blocking a stimulatory signal to achieve immune suppression is critical in autoimmune"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://pubmed.ncbi.nlm.nih.gov/37086046/",
+        "author_id": [
+            "BcvkUIIAAAAJ",
+            "d0-tZxsAAAAJ",
+            "Z67eWrcAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:-gLvZw4VWhEJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dimmune%2Bsuppression%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=-gLvZw4VWhEJ&ei=l5pHZNG5Iu2Ty9YP74OQiAw&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Empagliflozin attenuates intestinal inflammation through suppression of nitric oxide synthesis and myeloperoxidase activity in in vitro and in vivo models of \u2026",
+            "author": [
+                "A Makaro",
+                "M \u015awierczy\u0144ski",
+                "K Pokora",
+                "B Sarniak"
+            ],
+            "pub_year": "2023",
+            "venue": "\u2026",
+            "abstract": "2 days ago -  gliflozins alleviate inflammation through their potent effects on innate immune  cells.  may involve the influence of gliflozins on immune cells. We observed that EMPA and"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://link.springer.com/article/10.1007/s10787-023-01227-8",
+        "author_id": [
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:ECEPc0eBAu0J:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dimmune%2Bsuppression%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ECEPc0eBAu0J&ei=l5pHZNG5Iu2Ty9YP74OQiAw&json=",
+        "num_citations": 0,
+        "eprint_url": "https://link.springer.com/article/10.1007/s10787-023-01227-8"
+    }
+]

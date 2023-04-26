@@ -1,0 +1,63 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Human Thermoregulation and Injury Evaluation in Fire Environments: A Review",
+            "author": [
+                "W Weng",
+                "J Yang",
+                "J Wu",
+                "M Fu",
+                "Z He",
+                "W Chen"
+            ],
+            "pub_year": "2023",
+            "venue": "Fire Technology",
+            "abstract": "2 days ago -  toxic gases. This review focuses on human injury mechanisms including human  thermoregulation, heat strains, skin  were adopted to evaluate skin burn injuries. Moreover,"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://link.springer.com/article/10.1007/s10694-023-01411-w",
+        "author_id": [
+            "_bAFVu8AAAAJ",
+            "",
+            "sNoDx5wAAAAJ",
+            "pmp2SYAAAAAJ",
+            "9VmTAVsAAAAJ",
+            "lE11CxgAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:kUOeSGu2fSUJ:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dskin%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kUOeSGu2fSUJ&ei=T5pHZIT0E-2Ty9YP74OQiAw&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Gas Flow-Dependent Modification of Plasma Chemistry in \u03bcAPP Jet-Generated Cold Atmospheric Plasma and Its Impact on Human Skin Fibroblasts",
+            "author": [
+                "D Feibel",
+                "J Golda",
+                "J Held",
+                "P Awakowicz"
+            ],
+            "pub_year": "2023",
+            "venue": "Biomedicines",
+            "abstract": "2 days ago -  of buffers and on biological parameters of human skin fibroblasts (hsFB). CAP  treatments of  CAP-induced toxicity of hsFB cultures correlated with the accumulated H 2 O 2"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.mdpi.com/2227-9059/11/5/1242",
+        "author_id": [
+            "",
+            "QHz1iMYAAAAJ",
+            "lwQOvmsAAAAJ",
+            "MPKunGAAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:tCJ9MoD1ABkJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dskin%2Btoxicity%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=tCJ9MoD1ABkJ&ei=T5pHZIT0E-2Ty9YP74OQiAw&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.mdpi.com/2227-9059/11/5/1242"
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Luteolin, a promising quorum quencher mitigates virulence factors production in Pseudomonas aeruginosa-In vitro and in vivo approach",
+            "author": [
+                "SPRR Nayak",
+                "S Boopathi",
+                "PS Priya",
+                "M Pasupuleti"
+            ],
+            "pub_year": "2023",
+            "venue": "Microbial \u2026",
+            "abstract": "2 days ago -  It was found that PA-mediated ROS, lipid peroxidation, and apoptosis were  also significantly reduced in luteolin-treated zebrafish larvae. Open field test (OFT) reveals that"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0882401023001560",
+        "author_id": [
+            "e3NG6y8AAAAJ",
+            "SmxWGzIAAAAJ",
+            "",
+            "BTOYynMAAAAJ"
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:OiKW_pBTGH4J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dapoptosis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=OiKW_pBTGH4J&ei=AZtHZIn9FYTmygSwu6ZY&json=",
+        "num_citations": 0
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "\u2026 ameliorates pulmonary artery hypertension via phosphatidylinositide 3-kinases/protein kinase B-mediated regulation of proliferation and apoptosis of smooth muscle \u2026",
+            "author": [
+                "Z Xue",
+                "M Zhou",
+                "Y Liu",
+                "H Qin",
+                "Y Li",
+                "Y Zhu"
+            ],
+            "pub_year": "2023",
+            "venue": "Journal of \u2026",
+            "abstract": "2 days ago -  arteries and promote pulmonary artery apoptosis in lung tissues. Additionally,  MFJHQ hindered the proliferation and migration, and accelerated apoptosis in PDGF-BB-"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://www.sciencedirect.com/science/article/pii/S0378874123004129",
+        "author_id": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:kHGvxAtT-_wJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dapoptosis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=kHGvxAtT-_wJ&ei=AZtHZIn9FYTmygSwu6ZY&json=",
+        "num_citations": 0
+    }
+]

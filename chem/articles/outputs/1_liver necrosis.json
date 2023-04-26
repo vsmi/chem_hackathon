@@ -1,0 +1,55 @@
+[
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Effect of Type 2 Diabetes on the Inducible Degrader of LDL Receptor",
+            "author": [
+                "LAM Sum",
+                "DTW LUI",
+                "SWM SHIU",
+                "W Ying",
+                "KCB TAN"
+            ],
+            "pub_year": "NA",
+            "venue": "Journal of Lipid Research",
+            "abstract": "2 days ago -  IDOL is functionally active not only in the liver but also in peripheral tissues We  have  1 beta, interleukin 6 and tumour necrosis factor alpha than control macrophages upon"
+        },
+        "filled": false,
+        "gsrank": 1,
+        "pub_url": "https://www.jlr.org/article/S0022-2275(23)00053-6/fulltext",
+        "author_id": [
+            "",
+            "5VoZ5VgAAAAJ",
+            "",
+            "",
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:ssgy1IbO0E0J:scholar.google.com/&output=cite&scirp=0&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dliver%2Bnecrosis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=ssgy1IbO0E0J&ei=6ZlHZO3KBJnJsQLckZuABg&json=",
+        "num_citations": 0,
+        "eprint_url": "https://www.jlr.org/article/S0022-2275(23)00053-6/fulltext"
+    },
+    {
+        "container_type": "Publication",
+        "source": "PUBLICATION_SEARCH_SNIPPET",
+        "bib": {
+            "title": "Funeral Frame Sign, Complete Ring or Rim Sign",
+            "author": [
+                "A Yudin"
+            ],
+            "pub_year": "2023",
+            "venue": "Metaphorical Signs in Computed Tomography of Chest \u2026",
+            "abstract": "2 days ago -  multiple liver lesions  necrosis at the center. It must be remembered that not  all lesions with a contrasting rim are malignant. A contrasting rim can also be detected in liver"
+        },
+        "filled": false,
+        "gsrank": 2,
+        "pub_url": "https://link.springer.com/chapter/10.1007/978-3-031-24494-0_65",
+        "author_id": [
+            ""
+        ],
+        "url_scholarbib": "/scholar?hl=en&q=info:Jp2anEX6yJgJ:scholar.google.com/&output=cite&scirp=1&hl=en",
+        "url_add_sclib": "/citations?hl=en&xsrf=&continue=/scholar%3Fq%3Dliver%2Bnecrosis%26hl%3Den%26scisbd%3D1%26as_sdt%3D0,33&citilm=1&update_op=library_add&info=Jp2anEX6yJgJ&ei=6ZlHZO3KBJnJsQLckZuABg&json=",
+        "num_citations": 0
+    }
+]
